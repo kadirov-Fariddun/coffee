@@ -9,7 +9,7 @@ function headerFixed(){
             menuMobile.classList.add('header-fixed');
             logo.src = '/images/logo.webp';
         }else{
-            logo.src = '../images/logo-white.webp'
+            logo.src = '/images/logo-white.webp'
             menuMobile.classList.remove('header-fixed');
             menuDesctop.classList.remove('header-fixed');
         }
