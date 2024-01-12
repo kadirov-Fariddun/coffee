@@ -1,0 +1,1672 @@
+Uri: https://api.shopsheriff.com/api/amp/integrations/related-products?shop=portofmokha.myshopify.com&productId=10352564614
+File Name: C:\Downloaded Web Sites\portofmokha.com\api\amp\integrations\related-products
+Content Type: application/json
+
+Uri: https://api.shopsheriff.com/api/amp/integrations/related-products?shop=portofmokha.myshopify.com&productId=388801888285
+File Name: C:\Downloaded Web Sites\portofmokha.com\api\amp\integrations\related-products-2
+Content Type: application/json
+
+Uri: https://api.shopsheriff.com/api/amp/integrations/related-products?shop=portofmokha.myshopify.com&productId=9559560518
+File Name: C:\Downloaded Web Sites\portofmokha.com\api\amp\integrations\related-products-1
+Content Type: application/json
+
+Uri: https://cdn.ampproject.org/v0.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\v0.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0.mjs
+File Name: C:\Downloaded Web Sites\portofmokha.com\v0.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-accordion-0.1.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\v0\amp-accordion-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-accordion-0.1.mjs
+File Name: C:\Downloaded Web Sites\portofmokha.com\v0\amp-accordion-0.1.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-analytics-0.1.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\v0\amp-analytics-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-analytics-0.1.mjs
+File Name: C:\Downloaded Web Sites\portofmokha.com\v0\amp-analytics-0.1.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-bind-0.1.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\v0\amp-bind-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-bind-0.1.mjs
+File Name: C:\Downloaded Web Sites\portofmokha.com\v0\amp-bind-0.1.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-carousel-0.1.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\v0\amp-carousel-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-carousel-0.1.mjs
+File Name: C:\Downloaded Web Sites\portofmokha.com\v0\amp-carousel-0.1.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-form-0.1.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\v0\amp-form-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-form-0.1.mjs
+File Name: C:\Downloaded Web Sites\portofmokha.com\v0\amp-form-0.1.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-image-lightbox-0.1.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\v0\amp-image-lightbox-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-image-lightbox-0.1.mjs
+File Name: C:\Downloaded Web Sites\portofmokha.com\v0\amp-image-lightbox-0.1.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-list-0.1.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\v0\amp-list-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-list-0.1.mjs
+File Name: C:\Downloaded Web Sites\portofmokha.com\v0\amp-list-0.1.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-mustache-0.2.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\v0\amp-mustache-0.2.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-mustache-0.2.mjs
+File Name: C:\Downloaded Web Sites\portofmokha.com\v0\amp-mustache-0.2.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-sidebar-0.1.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\v0\amp-sidebar-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-sidebar-0.1.mjs
+File Name: C:\Downloaded Web Sites\portofmokha.com\v0\amp-sidebar-0.1.mjs
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/simple-parallax-js@5.2.0/dist/simpleParallax.min.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\npm\simple-parallax-js@5.2.0\dist\simpleParallax.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.judge.me/loader.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\loader.js
+Content Type: text/javascript
+
+Uri: https://cdn.judge.me/shopify_v2.css
+File Name: C:\Downloaded Web Sites\portofmokha.com\shopify_v2.css
+Content Type: text/css
+
+Uri: https://cdn.pagefly.io/pagefly/2.13.6/core/helper.js?t=20200904150955
+File Name: C:\Downloaded Web Sites\portofmokha.com\pagefly\2.13.6\core\helper.js
+Content Type: application/javascript
+
+Uri: https://cdn.pagefly.io/pagefly/2.13.6/css/main-style.css?t=20200904150955
+File Name: C:\Downloaded Web Sites\portofmokha.com\pagefly\2.13.6\css\main-style.css
+Content Type: text/css
+
+Uri: https://cdn.pagefly.io/static/assets/pf-custom-shopify-cart.min.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\static\assets\pf-custom-shopify-cart.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/collections/coffee_beans2.jpg?v=1615142592
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\collections\coffee_beans2.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/collections/gifts1_crop.jpg?v=1615142569
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\collections\gifts1_crop.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/1_1024x1024.jpg?v=1613734299
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/1_1_1024x1024.jpg?v=1613734314
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\1_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/1_2_1024x1024.jpg?v=1613734315
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\1_2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/1_3_1024x1024.jpg?v=1613734315
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\1_3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/1_4_1024x1024.jpg?v=1613734315
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\1_4_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/1_58249aa7-6ea2-4269-b08e-2db7d2e676de_1024x1024.jpg?v=1613734314
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\1_58249aa7-6ea2-4269-b08e-2db7d2e676de_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/2_1024x1024.jpg?v=1613734299
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/2_1_1024x1024.jpg?v=1613734315
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\2_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/2_2_1024x1024.jpg?v=1613734315
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\2_2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/2_3_1024x1024.jpg?v=1613734315
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\2_3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/2_4_1024x1024.jpg?v=1613734315
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\2_4_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/2_d4e21a0c-8c3a-4434-8d18-9b5130fdda39_1024x1024.jpg?v=1613734315
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\2_d4e21a0c-8c3a-4434-8d18-9b5130fdda39_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/3_1024x1024.jpg?v=1613734299
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/3_1_1024x1024.jpg?v=1613734315
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\3_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/3_2_1024x1024.jpg?v=1613734315
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\3_2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/3_3_1024x1024.jpg?v=1613734315
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\3_3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/3_4_1024x1024.jpg?v=1613734315
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\3_4_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/3_6c410eac-710a-4791-bdb4-4bea59255353_1024x1024.jpg?v=1613734314
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\3_6c410eac-710a-4791-bdb4-4bea59255353_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/4_1024x1024.jpg?v=1613734299
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\4_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/4_10acabe2-5ed8-49df-8fbb-dfd52440f620_1024x1024.jpg?v=1613734314
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\4_10acabe2-5ed8-49df-8fbb-dfd52440f620_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/4_1_1024x1024.jpg?v=1613734315
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\4_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/4_2_1024x1024.jpg?v=1613734315
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\4_2_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/4_3_1024x1024.jpg?v=1613734315
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\4_3_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/5_1024x1024.jpg?v=1613734314
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\5_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/5_1_1024x1024.jpg?v=1613734315
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\5_1_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/7x7_1024x1024.jpg?v=1613734242
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\7x7_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/7x7_1024x1024.png?v=1613734082
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\7x7_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/bbc_1024x1024.png?v=1613734076
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\bbc_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/bloomberg_1024x1024.jpg?v=1613734240
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\bloomberg_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/blue-bottle_1024x1024.png?v=1613734248
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\blue-bottle_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/book_1024x1024.png?v=1613734314
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\book_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/brooke_1024x1024.jpg?v=1613734076
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\brooke_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/brooke_63d18566-594b-408b-aa89-ef1dd103a1eb_1024x1024.jpg?v=1613734246
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\brooke_63d18566-594b-408b-aa89-ef1dd103a1eb_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/campos_1024x1024.jpg?v=1613734249
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\campos_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/cbs-news_1024x1024.png?v=1613734082
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\cbs-news_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/cherries_1024x1024.jpg?v=1613734059
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\cherries_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/cherries_6e8aa6c6-5f1f-425c-99d1-1bfd2265481b_1024x1024.jpg?v=1613734246
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\cherries_6e8aa6c6-5f1f-425c-99d1-1bfd2265481b_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/cherries_bef9d0e6-90a6-4932-bad5-697ab79c421e_1024x1024.jpg?v=1613734298
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\cherries_bef9d0e6-90a6-4932-bad5-697ab79c421e_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/coffee-review-blue_042ce9bd-2f18-48f5-8a93-964458d3abe7_1024x1024.png?v=1613734246
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\coffee-review-blue_042ce9bd-2f18-48f5-8a93-964458d3abe7_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/coffee-review-blue_1024x1024.png?v=1613734074
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\coffee-review-blue_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/coffee_1024x1024.png?v=1613734314
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\coffee_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/Copy_of_Port_of_Mokha_4_1_2048x.jpg?v=1615225899
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\Copy_of_Port_of_Mokha_4_1_2048x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/Copy_of_Port_of_Mokha_4_1_4048x.jpg?v=1615225899
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\Copy_of_Port_of_Mokha_4_1_4048x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/Copy_of_Port_of_Mokha_4_1_59450c5b-de49-47e1-83e2-9b960e37aba0_2048x.jpg?v=1615225964
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\Copy_of_Port_of_Mokha_4_1_59450c5b-de49-47e1-83e2-9b960e37aba0_2048x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/Copy_of_Port_of_Mokha_4_1_59450c5b-de49-47e1-83e2-9b960e37aba0_4048x.jpg?v=1615225964
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\Copy_of_Port_of_Mokha_4_1_59450c5b-de49-47e1-83e2-9b960e37aba0_4048x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/Copy_of_Port_of_Mokha_4_1_eaa21435-608f-4283-8ce5-afb7dc480ef2_2048x.jpg?v=1615225926
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\Copy_of_Port_of_Mokha_4_1_eaa21435-608f-4283-8ce5-afb7dc480ef2_2048x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/Copy_of_Port_of_Mokha_4_1_eaa21435-608f-4283-8ce5-afb7dc480ef2_4048x.jpg?v=1615225926
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\Copy_of_Port_of_Mokha_4_1_eaa21435-608f-4283-8ce5-afb7dc480ef2_4048x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/coutume_1024x1024.jpg?v=1613734249
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\coutume_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/CupCoffee_2048x.jpg?v=1615226795
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\CupCoffee_2048x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/CupCoffee_4048x.jpg?v=1615226795
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\CupCoffee_4048x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/down.svg?162
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\down.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/dragonfly_1024x1024.jpg?v=1613734249
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\dragonfly_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/equator_1024x1024.jpg?v=1613734248
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\equator_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/escape_1024x1024.jpg?v=1613734298
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\escape_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/espressolab_1024x1024.jpg?v=1613734249
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\espressolab_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/ew_1024x1024.jpg?v=1613734241
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\ew_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/ezgif.com-gif-maker_1024x1024.png?v=1613734314
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\ezgif.com-gif-maker_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/facebook-black.svg?1086
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\facebook-black.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/facebook.svg?1065
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/favicon-32x32_32x32.png?v=1577815219
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\favicon-32x32_32x32-1.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/favicon-32x32_32x32.png?v=1613734643
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\favicon-32x32_32x32.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/field_1024x1024.png?v=1613734314
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\field_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/gearpatrol_1024x1024.jpg?v=1613734241
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\gearpatrol_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/george-howell_1024x1024.png?v=1613734248
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\george-howell_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/handshake_1024x1024.png?v=1613734314
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\handshake_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/hero-manual.jpg?v=1576247148
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\hero-manual.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/hero-new.mp4?93
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\hero-new.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/hero_0b96dd45-3906-4be1-8516-25eb756554b6_2048x.jpg?v=1613734378
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\hero_0b96dd45-3906-4be1-8516-25eb756554b6_2048x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/hero_0b96dd45-3906-4be1-8516-25eb756554b6_4048x.jpg?v=1613734378
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\hero_0b96dd45-3906-4be1-8516-25eb756554b6_4048x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/hero_1024x1024.jpg?v=1613734297
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\hero_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/hoodline_1024x1024.jpg?v=1613734241
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\hoodline_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/howell_1024x1024.jpg?v=1613734059
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\howell_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/howell_6650bf11-2498-4fdc-8aa8-49c588dc28d7_1024x1024.jpg?v=1613734246
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\howell_6650bf11-2498-4fdc-8aa8-49c588dc28d7_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/inc_1024x1024.png?v=1613734082
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\inc_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/instagram-black.svg?1086
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\instagram-black.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/instagram.svg?1074
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/intelligentsia_1024x1024.jpg?v=1613734249
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\intelligentsia_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/james_1024x1024.jpg?v=1613734076
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\james_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/james_afd9784e-1576-4451-b1c2-ff1a524fd9b4_1024x1024.jpg?v=1613734246
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\james_afd9784e-1576-4451-b1c2-ff1a524fd9b4_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/la-magazine-green_1024x1024.png?v=1613734076
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\la-magazine-green_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/lacolombe_1024x1024.jpg?v=1613734249
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\lacolombe_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/los-angeles-magazine-logo-black_1170x.png?v=1614131163
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\los-angeles-magazine-logo-black_1170x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/map_2048x.png?v=1613734376
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\map_2048x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/map_4048x.png?v=1613734376
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\map_4048x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/martha_1024x1024.jpeg?v=1613736533
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\martha_1024x1024.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/maruyama_1024x1024.jpg?v=1613734249
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\maruyama_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/metropolis_1024x1024.jpg?v=1613734249
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\metropolis_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/mokhtar-2_2048x.jpg?v=1613734380
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\mokhtar-2_2048x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/mokhtar-james_1024x1024.jpg?v=1613734241
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\mokhtar-james_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/mokhtar-mountain_1024x1024.jpg?v=1613734298
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\mokhtar-mountain_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/mokhtar-mountain_2048x.jpg?v=1613734298
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\mokhtar-mountain_2048x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/mokhtar-orton_07652e6d-74ba-4fb0-8d17-668f5feef6e4_2048x.jpg?v=1613733996
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\mokhtar-orton_07652e6d-74ba-4fb0-8d17-668f5feef6e4_2048x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/mokhtar-orton_baa17d78-603e-4fa6-972a-3276df613e70_2048x.jpg?v=1613734245
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\mokhtar-orton_baa17d78-603e-4fa6-972a-3276df613e70_2048x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/MOUNTAIN_PHOTO-01_2048x.jpg?v=1613736145
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\MOUNTAIN_PHOTO-01_2048x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/MOUNTAIN_PHOTO-01_4048x.jpg?v=1613736145
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\MOUNTAIN_PHOTO-01_4048x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/next-shadow.svg?2253
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\next-shadow.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/pause-circled.svg
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\pause-circled.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/play-circled.svg
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\play-circled.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/PoM_Logo_Green-01.png?v=1614709987
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\PoM_Logo_Green-01.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/PoM_Logo_Green-01_100x.png?v=1614709987
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\PoM_Logo_Green-01_100x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/PoM_Logo_Green-01_190x.png?v=1614709987
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\PoM_Logo_Green-01_190x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/PoM_Logo_Green-01_200x.png?v=1614709987
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\PoM_Logo_Green-01_200x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/PoM_Logo_Green-01_95x.png?v=1614709987
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\PoM_Logo_Green-01_95x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/redbay_1024x1024.jpg?v=1613734383
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\redbay_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/roasters_2048x.jpg?v=1613734210
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\roasters_2048x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/Screen_Shot_2020-11-17_at_12.01.51_PM_2048x.png?v=1613762237
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\Screen_Shot_2020-11-17_at_12.01.51_PM_2048x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/Screen_Shot_2020-11-17_at_12.01.51_PM_4048x.png?v=1613762237
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\Screen_Shot_2020-11-17_at_12.01.51_PM_4048x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/secondary-logo_150x.png?v=1613734084
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\secondary-logo_150x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/secondary-logo_300x.png?v=1613734084
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\secondary-logo_300x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/sf-gate_1024x1024.jpg?v=1613734242
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\sf-gate_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/slate_1024x1024.png?v=1613734249
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\slate_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/sprudge_1024x1024.jpg?v=1613734242
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\sprudge_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/tools_1024x1024.png?v=1613734314
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\tools_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/type-white_f6376a9a-39f4-4396-827e-25364d56abf1_100x.png?v=1613734073
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\type-white_f6376a9a-39f4-4396-827e-25364d56abf1_100x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/type-white_f6376a9a-39f4-4396-827e-25364d56abf1_190x.png?v=1613734073
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\type-white_f6376a9a-39f4-4396-827e-25364d56abf1_190x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/type-white_f6376a9a-39f4-4396-827e-25364d56abf1_200x.png?v=1613734073
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\type-white_f6376a9a-39f4-4396-827e-25364d56abf1_200x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/type-white_f6376a9a-39f4-4396-827e-25364d56abf1_95x.png?v=1613734073
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\type-white_f6376a9a-39f4-4396-827e-25364d56abf1_95x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/video.jpg?v=1575816217
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\video.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/videocover_d5419b7d-f442-4a9a-9c33-3c1aaff2edf0_2048x.jpg?v=1613734677
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\videocover_d5419b7d-f442-4a9a-9c33-3c1aaff2edf0_2048x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/videocover_d5419b7d-f442-4a9a-9c33-3c1aaff2edf0_4048x.jpg?v=1613734677
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\videocover_d5419b7d-f442-4a9a-9c33-3c1aaff2edf0_4048x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/war_1024x1024.jpg?v=1613734298
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\war_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/files/Webp.net-resizeimage_1024x1024.jpg?v=1613734298
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\files\Webp.net-resizeimage_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_CUPS_01_300x.png?v=1582061058
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_CUPS_01_300x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_CUPS_01_47da9240-4a83-4452-af07-f6f5ce771a4c_300x.png?v=1668139854
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_CUPS_01_47da9240-4a83-4452-af07-f6f5ce771a4c_300x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_CUPS_01_47da9240-4a83-4452-af07-f6f5ce771a4c_600x.png?v=1668139854
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_CUPS_01_47da9240-4a83-4452-af07-f6f5ce771a4c_600x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_CUPS_01_600x.png?v=1582061058
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_CUPS_01_600x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_CUPS_01_aa4bedbb-1b2b-46e1-85bd-3c2ce97fb77d_300x.png?v=1582061115
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_CUPS_01_aa4bedbb-1b2b-46e1-85bd-3c2ce97fb77d_300x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_CUPS_01_aa4bedbb-1b2b-46e1-85bd-3c2ce97fb77d_600x.png?v=1582061115
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_CUPS_01_aa4bedbb-1b2b-46e1-85bd-3c2ce97fb77d_600x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_CUPS_03_1024x1024.png?v=1582061058
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_CUPS_03_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_CUPS_03_300x.png?v=1582061058
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_CUPS_03_300x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_CUPS_03_600x.png?v=1582061058
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_CUPS_03_600x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_CUPS_03_d04e6dcb-9e1a-492a-9f89-7bf8cf11da74_1024x1024.png?v=1582061115
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_CUPS_03_d04e6dcb-9e1a-492a-9f89-7bf8cf11da74_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_CUPS_03_d04e6dcb-9e1a-492a-9f89-7bf8cf11da74_300x.png?v=1582061115
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_CUPS_03_d04e6dcb-9e1a-492a-9f89-7bf8cf11da74_300x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_CUPS_03_d04e6dcb-9e1a-492a-9f89-7bf8cf11da74_600x.png?v=1582061115
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_CUPS_03_d04e6dcb-9e1a-492a-9f89-7bf8cf11da74_600x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_CUPS_03_d04e6dcb-9e1a-492a-9f89-7bf8cf11da74_x80.png?v=1582061115
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_CUPS_03_d04e6dcb-9e1a-492a-9f89-7bf8cf11da74_x80.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_CUPS_03_x80.png?v=1582061058
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_CUPS_03_x80.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_DURRAR_01_100x100.png?v=1644496997
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_DURRAR_01_100x100.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_DURRAR_01_300x.png?v=1644496997
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_DURRAR_01_300x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_DURRAR_01_530x.png?v=1644496997
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_DURRAR_01_530x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_DURRAR_01_600x.png?v=1644496997
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_DURRAR_01_600x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_DURRAR_02_100x100.png?v=1668140002
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_DURRAR_02_100x100.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_DURRAR_02_1024x1024.png?v=1668140002
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_DURRAR_02_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_DURRAR_02_300x.png?v=1668140002
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_DURRAR_02_300x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_DURRAR_02_530x.png?v=1668140002
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_DURRAR_02_530x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_DURRAR_02_600x.png?v=1668140002
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_DURRAR_02_600x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_DURRAR_02_70c29351-d1be-4578-bbd3-1f1bf296920d-01_1024x1024.jpg?v=1668139854
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_DURRAR_02_70c29351-d1be-4578-bbd3-1f1bf296920d-01_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_DURRAR_02_70c29351-d1be-4578-bbd3-1f1bf296920d-01_300x.jpg?v=1668139854
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_DURRAR_02_70c29351-d1be-4578-bbd3-1f1bf296920d-01_300x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_DURRAR_02_70c29351-d1be-4578-bbd3-1f1bf296920d-01_600x.jpg?v=1668139854
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_DURRAR_02_70c29351-d1be-4578-bbd3-1f1bf296920d-01_600x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_DURRAR_02_70c29351-d1be-4578-bbd3-1f1bf296920d-01_x80.jpg?v=1668139854
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_DURRAR_02_70c29351-d1be-4578-bbd3-1f1bf296920d-01_x80.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_DURRAR_02_small.png?v=1668140002
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_DURRAR_02_small.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_DURRAR_02_x80.png?v=1668140002
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_DURRAR_02_x80.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_SUBSCRIPTION_01_1024x1024.png?v=1583259144
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_SUBSCRIPTION_01_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_SUBSCRIPTION_01_530x.png?v=1583259144
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_SUBSCRIPTION_01_530x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_SUBSCRIPTION_01_600x.png?v=1583259144
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_SUBSCRIPTION_01_600x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_SUBSCRIPTION_01_small.png?v=1583259144
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_SUBSCRIPTION_01_small.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_SUBSCRIPTION_01_x80.png?v=1583259144
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_SUBSCRIPTION_01_x80.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_TRILOGY_01_100x100.png?v=1583258977
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_TRILOGY_01_100x100.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_TRILOGY_01_1024x1024.png?v=1583258977
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_TRILOGY_01_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_TRILOGY_01_300x.png?v=1583258977
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_TRILOGY_01_300x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_TRILOGY_01_530x.png?v=1583258977
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_TRILOGY_01_530x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_TRILOGY_01_600x.png?v=1583258977
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_TRILOGY_01_600x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_TRILOGY_01_small.png?v=1583258977
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_TRILOGY_01_small.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_TRILOGY_01_x80.png?v=1583258977
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_TRILOGY_01_x80.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_TRILOGY_02_100x100.png?v=1583258977
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_TRILOGY_02_100x100.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_TRILOGY_02_300x.png?v=1583258977
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_TRILOGY_02_300x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_TRILOGY_02_530x.png?v=1583258977
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_TRILOGY_02_530x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/FOR_SHOPIFY_TRILOGY_02_600x.png?v=1583258977
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\FOR_SHOPIFY_TRILOGY_02_600x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/PoM_Bundles_Combinations-subscription3month_1024x1024.jpg?v=1606359494
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\PoM_Bundles_Combinations-subscription3month_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/PoM_Bundles_Combinations-subscription3month_600x.jpg?v=1606359494
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\PoM_Bundles_Combinations-subscription3month_600x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/PoM_Bundles_Combinations-subscription3month_x80.jpg?v=1606359494
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\PoM_Bundles_Combinations-subscription3month_x80.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/PoM_Bundles_Combinations-subscription6month_1024x1024.jpg?v=1606360446
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\PoM_Bundles_Combinations-subscription6month_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/PoM_Bundles_Combinations-subscription6month_600x.jpg?v=1606360446
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\PoM_Bundles_Combinations-subscription6month_600x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/PoM_Bundles_Combinations-subscription6month_x80.jpg?v=1606360446
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\PoM_Bundles_Combinations-subscription6month_x80.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/PoM_GiftCard_2_margin_1024x1024.png?v=1592595353
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\PoM_GiftCard_2_margin_1024x1024.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/PoM_GiftCard_2_margin_600x.png?v=1592595353
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\PoM_GiftCard_2_margin_600x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/products/PoM_GiftCard_2_margin_x80.png?v=1592595353
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\products\PoM_GiftCard_2_margin_x80.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/10/assets/pf-24faef6c--PoMAuction2020LogoSmallCut01.jpg?v=1599201127&selected
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\10\assets\pf-24faef6c--PoMAuction2020LogoSmallCut01.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/10/assets/pf-6cdecc55--PoMAuction2020LogoSmallCut01.jpg?v=1599201197&selected
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\10\assets\pf-6cdecc55--PoMAuction2020LogoSmallCut01.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/10/assets/pf-c50580a4-5fdc-483f-ab25-9bf4b31e026c--DSC05553.jpg?v=1581109099
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\10\assets\pf-c50580a4-5fdc-483f-ab25-9bf4b31e026c--DSC05553.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/10/assets/pf-cc06c22a--YemenCity.JPG?v=1599189187
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\10\assets\pf-cc06c22a--YemenCity.JPG
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/10/assets/pf-cc06c22a--YemenCity.JPG?v=1599189187&selected
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\10\assets\pf-cc06c22a--YemenCity-1.JPG
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/10/assets/pf-f8774a59--PoMAuction2020LogoSmallCut01.jpg?v=1599201297
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\10\assets\pf-f8774a59--PoMAuction2020LogoSmallCut01.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/10/assets/pf-f8774a59--PoMAuction2020LogoSmallCut01.jpg?v=1599201297&selected
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\10\assets\pf-f8774a59--PoMAuction2020LogoSmallCut01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\ajax-loader-1.gif
+Content Type: image/gif
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/ajax-loader.gif?v=83335857307597093571614046303
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/bold-upsell-custom.css?v=150135899998303055901614046305
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\bold-upsell-custom.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/bold-upsell.css?v=51915886505602322711614046306
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\bold-upsell.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/collections-filtres.js?v=121110329667116460081614046307
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\collections-filtres.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/cross_20.png?v=9648473165182455971614046308
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\cross_20.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/cross_30.png?v=55783826382955458961614046309
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\cross_30.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/cross_40.png?v=92905605766750580471614046310
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\cross_40.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/cross_60.png?v=154273214565330162391614046310
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\cross_60.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/dx_custom.css?v=95409561471906561281651229897
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\dx_custom.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/jquery.countdown.min.js?v=119062672743760252431614046320
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\jquery.countdown.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/jquery.elevatezoom.js?v=123299089282303306721614046321
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\jquery.elevatezoom.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/jquery.magnific-popup.min.js?v=130266991297150798971614046322
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\jquery.magnific-popup.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/jquery.min.js?v=146653844047132007351614046322
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/jquery.visible.min.js?v=93382404132378079141614046324
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\jquery.visible.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/pagefly.57efa0d0.css?v=60266767994995084161614046928
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\pagefly.57efa0d0.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/PostGrotesk-Bold.woff
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\PostGrotesk-Bold.woff
+Content Type: font/woff2
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/PostGrotesk-Book.woff
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\PostGrotesk-Book.woff
+Content Type: font/woff2
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/PostGrotesk-Light.woff
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\PostGrotesk-Light.woff
+Content Type: font/woff2
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/PostGrotesk-Medium.woff
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\PostGrotesk-Medium.woff
+Content Type: font/woff2
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\revicons.ttf
+Content Type: font/woff2
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\revicons.woff
+Content Type: font/woff2
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/secondary-logo-2.png
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\secondary-logo-2.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/SEND.png?v=120605243321181025011614046337
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\SEND.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/slick-theme.scss?v=92384929997397932841614046338
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\slick-theme.scss
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/slick.js?v=18270799639888039791614046339
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\slick.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/slick.scss?v=158244937576883001951614046340
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\slick.scss
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/small_left.png
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\small_left.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/small_right.png
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\small_right.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/theme-custom.scss?v=178694369113836347281619620452
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\theme-custom.scss
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/theme-functions.js?v=166410303163909692001617286993
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\theme-functions.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/theme.css?v=63530281391358607291674764791
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\theme.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/theme.js?v=21964669335671827711617285144
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\theme.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/timer.png
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\timer.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/TrioGrotesk-Medium.woff
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\TrioGrotesk-Medium.woff
+Content Type: font/woff2
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/tt-gift-box-border1.png
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\tt-gift-box-border1.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/tt-gift-box-border2.png
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\tt-gift-box-border2.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/vendor.min.js?v=78081096822851216281614046350
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\vendor.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/wokiee_icons.eot?87a912
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\wokiee_icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/wokiee_icons.svg?87a912
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\wokiee_icons.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/wokiee_icons.ttf?87a912
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\wokiee_icons.ttf
+Content Type: font/woff2
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/assets/wokiee_icons.woff?87a912
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\assets\wokiee_icons.woff
+Content Type: font/woff
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/compiled_assets/scripts.js?8655
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\compiled_assets\scripts.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/16/compiled_assets/styles.css?8655
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\16\compiled_assets\styles.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/3/assets/amp-1577711168952-secondarylogo2_135x.png?v=1577711169
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\3\assets\amp-1577711168952-secondarylogo2_135x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/1786/7381/t/3/assets/amp-1577711168952-secondarylogo2_x125@2x.png?v=1577711169
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\files\1\1786\7381\t\3\assets\amp-1577711168952-secondarylogo2_x125@2x.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/shopifycloud/checkout-web/assets/app.baseline.en.d564320081bb41edd7a4.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\shopifycloud\checkout-web\assets\app.baseline.en.d564320081bb41edd7a4.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/shopifycloud/checkout-web/assets/app.baseline.en.f8ae0c015fc99f06abf7.css
+File Name: C:\Downloaded Web Sites\portofmokha.com\shopifycloud\checkout-web\assets\app.baseline.en.f8ae0c015fc99f06abf7.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/shopifycloud/checkout-web/assets/app_components_AddressForm_AddressForm_tsx-app_components_Step_Step_tsx-app_utilities_receipt-224401.baseline.en.82918c47864a546865bc.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\shopifycloud\checkout-web\assets\app_components_AddressForm_AddressForm_tsx-app_components_Step_Step_tsx-app_utilities_receipt-224401.baseline.en.82918c47864a546865bc.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-packages-packages_card-fields-react_src_hook_ts-packages_checkout-graphql_src_in-92a386.baseline.en.85859b3209339dedbdd5.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\shopifycloud\checkout-web\assets\checkout-web-packages-packages_card-fields-react_src_hook_ts-packages_checkout-graphql_src_in-92a386.baseline.en.85859b3209339dedbdd5.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-packages-packages_checkout-react-html_src_hooks_title_ts.baseline.en.700a68afbb3ab05cb84e.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\shopifycloud\checkout-web\assets\checkout-web-packages-packages_checkout-react-html_src_hooks_title_ts.baseline.en.700a68afbb3ab05cb84e.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-ui-packages_checkout-web-ui_src_styles_global_css_ts-packages_checkout-web-ui_sr-7ea9a0.baseline.en.163fb13a26d98706f7a5.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\shopifycloud\checkout-web\assets\checkout-web-ui-packages_checkout-web-ui_src_styles_global_css_ts-packages_checkout-web-ui_sr-7ea9a0.baseline.en.163fb13a26d98706f7a5.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-ui-packages_checkout-web-ui_src_styles_global_css_ts-packages_checkout-web-ui_sr-7ea9a0.baseline.en.93a62210aac6ca6d34a1.css
+File Name: C:\Downloaded Web Sites\portofmokha.com\shopifycloud\checkout-web\assets\checkout-web-ui-packages_checkout-web-ui_src_styles_global_css_ts-packages_checkout-web-ui_sr-7ea9a0.baseline.en.93a62210aac6ca6d34a1.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information.baseline.en.10d88a0a7c2fdff3597e.css
+File Name: C:\Downloaded Web Sites\portofmokha.com\shopifycloud\checkout-web\assets\Information.baseline.en.10d88a0a7c2fdff3597e.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information.baseline.en.e33578f193e3dc55becf.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\shopifycloud\checkout-web\assets\Information.baseline.en.e33578f193e3dc55becf.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/shopifycloud/checkout-web/assets/runtime.baseline.en.a3b4e24ac5e0f3b1311a.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\shopifycloud\checkout-web\assets\runtime.baseline.en.a3b4e24ac5e0f3b1311a.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/shopifycloud/checkout-web/assets/vendors-node_modules_bugsnag_js_browser_notifier_js-node_modules_formatjs_intl-datetimeformat-2457c6.baseline.en.8d35c5c41e96e6dfa87c.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\shopifycloud\checkout-web\assets\vendors-node_modules_bugsnag_js_browser_notifier_js-node_modules_formatjs_intl-datetimeformat-2457c6.baseline.en.8d35c5c41e96e6dfa87c.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/shopifycloud/checkout-web/assets/vendors-node_modules_bugsnag_js_browser_notifier_js-node_modules_formatjs_intl-datetimeformat-2457c6.baseline.en.cd1624f2356e623765be.css
+File Name: C:\Downloaded Web Sites\portofmokha.com\shopifycloud\checkout-web\assets\vendors-node_modules_bugsnag_js_browser_notifier_js-node_modules_formatjs_intl-datetimeformat-2457c6.baseline.en.cd1624f2356e623765be.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/shopifycloud/shop-js/client.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\shopifycloud\shop-js\client.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/shopifycloud/shopify/assets/shopify_pay/storefront-c31d2fa4962d2ef90b673e945ee33f4f87302b97d0882cd8e83a629b84b30dab.js?v=20220906
+File Name: C:\Downloaded Web Sites\portofmokha.com\shopifycloud\shopify\assets\shopify_pay\storefront-c31d2fa4962d2ef90b673e945ee33f4f87302b97d0882cd8e83a629b84b30dab.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\shopifycloud\shopify\assets\storefront\features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-e154599399e6b8b29dcb1102cc76eb199fa33a09af4fa78d15e8f8544ee64fcd.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\shopifycloud\shopify\assets\storefront\load_feature-e154599399e6b8b29dcb1102cc76eb199fa33a09af4fa78d15e8f8544ee64fcd.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/shopifycloud/shopify/assets/storefront/policy-3e4aa3c07a3a61780d16bc4b828d2fef9e1a20a44aae36e029a7b98e5ee5a4d0.css
+File Name: C:\Downloaded Web Sites\portofmokha.com\shopifycloud\shopify\assets\storefront\policy-3e4aa3c07a3a61780d16bc4b828d2fef9e1a20a44aae36e029a7b98e5ee5a4d0.css
+Content Type: text/css
+
+Uri: https://cdn.shopify.com/shopifycloud/shopify/assets/themes_support/customer_area-4beccea87758d91106a581ba89341d9b51842f6da79209258c8297239e950343.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\shopifycloud\shopify\assets\themes_support\customer_area-4beccea87758d91106a581ba89341d9b51842f6da79209258c8297239e950343.js
+Content Type: text/javascript
+
+Uri: https://cdn.shopify.com/shopifycloud/shopify/assets/themes_support/shopify_common-8ea6ac3faf357236a97f5de749df4da6e8436ca107bc3a4ee805cbf08bc47392.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\shopifycloud\shopify\assets\themes_support\shopify_common-8ea6ac3faf357236a97f5de749df4da6e8436ca107bc3a4ee805cbf08bc47392.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.css
+File Name: C:\Downloaded Web Sites\portofmokha.com\ajax\libs\jquery-confirm\3.3.2\jquery-confirm.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\ajax\libs\jquery-confirm\3.3.2\jquery-confirm.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:400,700,500,600|ABeeZee:400|Alef:400|Heebo:400&display=swap
+File Name: C:\Downloaded Web Sites\portofmokha.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tWklQ.ttf
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\abeezee\v22\esDR31xSG-6AGleN2tWklQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alef/v21/FeVfS0NQpLYgnjVRDw.ttf
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\alef\v21\FeVfS0NQpLYgnjVRDw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v21/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmj.ttf
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\heebo\v21\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v4/QGYpz_wNahGAdqQ43Rh3j4PMn9JM6fnuKg.ttf
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\worksans\v4\QGYpz_wNahGAdqQ43Rh3j4PMn9JM6fnuKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v4/QGYpz_wNahGAdqQ43Rh3x4XMn9JM6fnuKg.ttf
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\worksans\v4\QGYpz_wNahGAdqQ43Rh3x4XMn9JM6fnuKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v4/QGYsz_wNahGAdqQ43RhPe6rol_lQ4A.ttf
+File Name: C:\Downloaded Web Sites\portofmokha.com\s\worksans\v4\QGYsz_wNahGAdqQ43RhPe6rol_lQ4A.ttf
+Content Type: font/ttf
+
+Uri: https://judgeme.imgix.net/port-of-mokha/1598196095__image__original.jpg?auto=format
+File Name: C:\Downloaded Web Sites\portofmokha.com\port-of-mokha\1598196095__image__original.jpg
+Content Type: image/jpeg
+
+Uri: https://judgeme.imgix.net/port-of-mokha/1677475313__1376add0-9874-401f-8201-943103fa0662__original.jpeg?auto=format
+File Name: C:\Downloaded Web Sites\portofmokha.com\port-of-mokha\1677475313__1376add0-9874-401f-8201-943103fa0662__original.jpeg
+Content Type: image/jpeg
+
+Uri: https://player.vimeo.com/api/player.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\api\player.js
+Content Type: application/javascript
+
+Uri: https://portofmokha.com/
+File Name: C:\Downloaded Web Sites\portofmokha.com\index.htm
+Content Type: text/html
+
+Uri: https://portofmokha.com/?utm_source=shopsheriff&utm_medium=amp&utm_content=footer-menu
+File Name: C:\Downloaded Web Sites\portofmokha.com\index-2.htm
+Content Type: text/html
+
+Uri: https://portofmokha.com/?utm_source=shopsheriff&utm_medium=amp&utm_content=header-logo
+File Name: C:\Downloaded Web Sites\portofmokha.com\index-1.htm
+Content Type: text/html
+
+Uri: https://portofmokha.com/a/s/products/al-durrar-micro-lot
+File Name: C:\Downloaded Web Sites\portofmokha.com\a\s\products\al-durrar-micro-lot.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/a/s/products/mokha-monthly
+File Name: C:\Downloaded Web Sites\portofmokha.com\a\s\products\mokha-monthly.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/a/s/products/the-yemen-trilogy
+File Name: C:\Downloaded Web Sites\portofmokha.com\a\s\products\the-yemen-trilogy.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/account/login
+File Name: C:\Downloaded Web Sites\portofmokha.com\account\login.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/account/login?utm_source=shopsheriff&utm_medium=amp&utm_content=header-login
+File Name: C:\Downloaded Web Sites\portofmokha.com\account\login-1.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/account/register
+File Name: C:\Downloaded Web Sites\portofmokha.com\account\register.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/cart
+File Name: C:\Downloaded Web Sites\portofmokha.com\cart.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/cart?utm_source=shopsheriff&utm_medium=amp&utm_content=header-cart
+File Name: C:\Downloaded Web Sites\portofmokha.com\cart-1.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/checkouts/c/14c16c00fbe4d93b29ca605c8d4ab289?attributes[Referral]=AMP+by+Shop+Sheriff:+Buy+it+now&ref=shopsheriff&utm_campaign=shopsheriff&utm_content=buy-it-now&utm_medium=amp&utm_source=shopsheriff
+File Name: C:\Downloaded Web Sites\portofmokha.com\checkouts\c\14c16c00fbe4d93b29ca605c8d4ab289.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/gifts/products/al-durra-kinto-espresso-glass-80ml-set-of-2-glasses
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\gifts\products\al-durra-kinto-espresso-glass-80ml-set-of-2-glasses.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/gifts/products/al-durrar-micro-lot
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\gifts\products\al-durrar-micro-lot.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/gifts/products/copy-of-kinto-double-wall-glass-250ml
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\gifts\products\copy-of-kinto-double-wall-glass-250ml.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/gifts/products/gift-card
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\gifts\products\gift-card.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/gifts/products/kinto-double-wall-glass-80ml
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\gifts\products\kinto-double-wall-glass-80ml.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/gifts/products/the-yemen-trilogy
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\gifts\products\the-yemen-trilogy.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/products
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\products.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/products.atom
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\products.atom
+Content Type: application/atom+xml
+
+Uri: https://portofmokha.com/collections/products.oembed
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\products.oembed
+Content Type: application/json+oembed
+
+Uri: https://portofmokha.com/collections/products/products/al-durra-kinto-espresso-glass-80ml-set-of-2-glasses
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\products\products\al-durra-kinto-espresso-glass-80ml-set-of-2-glasses.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/products/products/al-durrar-micro-lot
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\products\products\al-durrar-micro-lot.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/products/products/copy-of-kinto-double-wall-glass-250ml
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\products\products\copy-of-kinto-double-wall-glass-250ml.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/products/products/gift-card
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\products\products\gift-card.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/products/products/kinto-double-wall-glass-80ml
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\products\products\kinto-double-wall-glass-80ml.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/products/products/mokha-monthly
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\products\products\mokha-monthly.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/products/products/port-of-mokha-monthly-coffee-subscription-6-months
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\products\products\port-of-mokha-monthly-coffee-subscription-6-months.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/products/products/subscription
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\products\products\subscription.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/products/products/the-yemen-trilogy
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\products\products\the-yemen-trilogy.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/recommended/products/the-yemen-trilogy
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\recommended\products\the-yemen-trilogy.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/shop
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\shop.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/shop.atom
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\shop.atom
+Content Type: application/atom+xml
+
+Uri: https://portofmokha.com/collections/shop.oembed
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\shop.oembed
+Content Type: application/json+oembed
+
+Uri: https://portofmokha.com/collections/shop/products/al-durrar-micro-lot
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\shop\products\al-durrar-micro-lot.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/shop/products/copy-of-kinto-double-wall-glass-250ml
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\shop\products\copy-of-kinto-double-wall-glass-250ml.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/shop/products/gift-card
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\shop\products\gift-card.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/shop/products/kinto-double-wall-glass-80ml
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\shop\products\kinto-double-wall-glass-80ml.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/shop/products/mokha-monthly
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\shop\products\mokha-monthly.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/shop/products/the-yemen-trilogy
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\shop\products\the-yemen-trilogy.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/shop?utm_source=shopsheriff&utm_medium=amp&utm_content=footer-menu
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\shop-1.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/subscriptions/products/mokha-monthly
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\subscriptions\products\mokha-monthly.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/subscriptions/products/port-of-mokha-monthly-coffee-subscription-6-months
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\subscriptions\products\port-of-mokha-monthly-coffee-subscription-6-months.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/collections/subscriptions/products/subscription
+File Name: C:\Downloaded Web Sites\portofmokha.com\collections\subscriptions\products\subscription.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/aeropress
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\aeropress.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/auction2020
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\auction2020.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/brewguides
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\brewguides.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/chemex
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\chemex.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/contact
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\contact.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/contact?utm_source=shopsheriff&utm_medium=amp&utm_content=header-menu
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\contact-2.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/contact?utm_source=shopsheriff&utm_medium=amp&utm_content=sidebar
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\contact-1.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/french-press
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\french-press.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/kalita-wave
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\kalita-wave.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/moka-pot
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\moka-pot.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/press
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\press.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/privacy-policy
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\privacy-policy.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/refund-policy
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\refund-policy.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/roasters
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\roasters.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/shipping-policy
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\shipping-policy.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/shop
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\shop.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/shop?collection=gifts
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\shop-5.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/shop?collection=gifts&utm_source=shopsheriff&utm_medium=amp&utm_content=header-menu
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\shop-4.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/shop?collection=gifts&utm_source=shopsheriff&utm_medium=amp&utm_content=sidebar
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\shop-2.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/shop?utm_source=shopsheriff&utm_medium=amp&utm_content=header-menu
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\shop-3.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/shop?utm_source=shopsheriff&utm_medium=amp&utm_content=sidebar
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\shop-1.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/story
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\story.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/story?utm_source=shopsheriff&utm_medium=amp&utm_content=footer-menu
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\story-3.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/story?utm_source=shopsheriff&utm_medium=amp&utm_content=header-menu
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\story-2.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/story?utm_source=shopsheriff&utm_medium=amp&utm_content=sidebar
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\story-1.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/team
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\team.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/team?utm_source=shopsheriff&utm_medium=amp&utm_content=footer-menu
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\team-1.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/terms-of-service
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\terms-of-service.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/pages/v-60
+File Name: C:\Downloaded Web Sites\portofmokha.com\pages\v-60.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/policies/refund-policy
+File Name: C:\Downloaded Web Sites\portofmokha.com\policies\refund-policy.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/policies/refund-policy?utm_source=shopsheriff&utm_medium=amp&utm_content=footer-menu
+File Name: C:\Downloaded Web Sites\portofmokha.com\policies\refund-policy-1.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/policies/terms-of-service
+File Name: C:\Downloaded Web Sites\portofmokha.com\policies\terms-of-service.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/policies/terms-of-service?utm_source=shopsheriff&utm_medium=amp&utm_content=footer-menu
+File Name: C:\Downloaded Web Sites\portofmokha.com\policies\terms-of-service-1.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/products/al-durra-kinto-espresso-glass-80ml-set-of-2-glasses
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\al-durra-kinto-espresso-glass-80ml-set-of-2-glasses.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/products/al-durra-kinto-espresso-glass-80ml-set-of-2-glasses.oembed
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\al-durra-kinto-espresso-glass-80ml-set-of-2-glasses.oembed
+Content Type: application/json+oembed
+
+Uri: https://portofmokha.com/products/al-durrar-micro-lot
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\al-durrar-micro-lot.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/products/al-durrar-micro-lot.oembed
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\al-durrar-micro-lot.oembed
+Content Type: application/json+oembed
+
+Uri: https://portofmokha.com/products/al-durrar-micro-lot?utm_source=shopsheriff&utm_medium=amp&utm_content=link-to-full-site
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\al-durrar-micro-lot-1.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/products/al-durrar-micro-lot?variant=32028158591091
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\al-durrar-micro-lot-2.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/products/copy-of-kinto-double-wall-glass-250ml
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\copy-of-kinto-double-wall-glass-250ml.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/products/copy-of-kinto-double-wall-glass-250ml.oembed
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\copy-of-kinto-double-wall-glass-250ml.oembed
+Content Type: application/json+oembed
+
+Uri: https://portofmokha.com/products/gift-card
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\gift-card.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/products/gift-card.oembed
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\gift-card.oembed
+Content Type: application/json+oembed
+
+Uri: https://portofmokha.com/products/kinto-double-wall-glass-80ml
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\kinto-double-wall-glass-80ml.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/products/kinto-double-wall-glass-80ml.oembed
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\kinto-double-wall-glass-80ml.oembed
+Content Type: application/json+oembed
+
+Uri: https://portofmokha.com/products/mokha-monthly
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\mokha-monthly.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/products/mokha-monthly.oembed
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\mokha-monthly.oembed
+Content Type: application/json+oembed
+
+Uri: https://portofmokha.com/products/mokha-monthly?utm_source=shopsheriff&utm_medium=amp&utm_content=link-to-full-site
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\mokha-monthly-1.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/products/mokha-monthly?variant=32028159377523
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\mokha-monthly-2.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/products/port-of-mokha-monthly-coffee-subscription-6-months
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\port-of-mokha-monthly-coffee-subscription-6-months.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/products/port-of-mokha-monthly-coffee-subscription-6-months.oembed
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\port-of-mokha-monthly-coffee-subscription-6-months.oembed
+Content Type: application/json+oembed
+
+Uri: https://portofmokha.com/products/subscription
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\subscription.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/products/subscription.oembed
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\subscription.oembed
+Content Type: application/json+oembed
+
+Uri: https://portofmokha.com/products/the-yemen-trilogy
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\the-yemen-trilogy.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/products/the-yemen-trilogy.oembed
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\the-yemen-trilogy.oembed
+Content Type: application/json+oembed
+
+Uri: https://portofmokha.com/products/the-yemen-trilogy?utm_source=shopsheriff&utm_medium=amp&utm_content=link-to-full-site
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\the-yemen-trilogy-1.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/products/the-yemen-trilogy?variant=32028158328947
+File Name: C:\Downloaded Web Sites\portofmokha.com\products\the-yemen-trilogy-2.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/search
+File Name: C:\Downloaded Web Sites\portofmokha.com\search-1.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/search?utm_source=shopsheriff&utm_medium=amp&utm_content=header-search
+File Name: C:\Downloaded Web Sites\portofmokha.com\search.html
+Content Type: text/html
+
+Uri: https://portofmokha.com/tools/recurring/get-subscription-access
+File Name: C:\Downloaded Web Sites\portofmokha.com\tools\recurring\get-subscription-access.html
+Content Type: text/html
+
+Uri: https://s3.amazonaws.com/me.judge.public-static-assets/general/video-placeholder-640x480.jpeg
+File Name: C:\Downloaded Web Sites\portofmokha.com\me.judge.public-static-assets\general\video-placeholder-640x480.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.rechargecdn.com/static/css/fontawesome.css?t=1682438508
+File Name: C:\Downloaded Web Sites\portofmokha.com\static\css\fontawesome.css
+Content Type: text/css
+
+Uri: https://static.rechargecdn.com/static/css/proxy.css?t=1682438508
+File Name: C:\Downloaded Web Sites\portofmokha.com\static\css\proxy.css
+Content Type: text/css
+
+Uri: https://static.rechargecdn.com/static/css/rcWidget.css
+File Name: C:\Downloaded Web Sites\portofmokha.com\static\css\rcWidget.css
+Content Type: text/css
+
+Uri: https://static.rechargecdn.com/static/fonts/fontawesome/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\portofmokha.com\static\fonts\fontawesome\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.rechargecdn.com/static/fonts/fontawesome/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\portofmokha.com\static\fonts\fontawesome\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.rechargecdn.com/static/fonts/fontawesome/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\portofmokha.com\static\fonts\fontawesome\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://static.rechargecdn.com/static/fonts/fontawesome/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\portofmokha.com\static\fonts\fontawesome\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://static.rechargecdn.com/static/fonts/fontawesome/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\portofmokha.com\static\fonts\fontawesome\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://static.rechargecdn.com/static/fonts/fontawesome/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\portofmokha.com\static\fonts\fontawesome\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://static.rechargecdn.com/static/images/ie10_11_logo.svg?t=1682438508
+File Name: C:\Downloaded Web Sites\portofmokha.com\static\images\ie10_11_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://static.rechargecdn.com/static/images/logos/logo__grey%402x.png?t=1682438508
+File Name: C:\Downloaded Web Sites\portofmokha.com\static\images\logos\logo__grey@2x.png
+Content Type: image/png
+
+Uri: https://static.rechargecdn.com/static/images/widget/rc_widget__banner@2x.png
+File Name: C:\Downloaded Web Sites\portofmokha.com\static\images\widget\rc_widget__banner@2x.png
+Content Type: image/png
+
+Uri: https://static.rechargecdn.com/static/images/widget/rc_widget__icon__black@2x.png
+File Name: C:\Downloaded Web Sites\portofmokha.com\static\images\widget\rc_widget__icon__black@2x.png
+Content Type: image/png
+
+Uri: https://static.rechargecdn.com/static/js/rcWidget.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\static\js\rcWidget.js
+Content Type: application/javascript
+
+Uri: https://www.dwin1.com/19038.js
+File Name: C:\Downloaded Web Sites\portofmokha.com\19038.js
+Content Type: application/javascript
+
+Uri: https://www.google-analytics.com/r/collect?v=1&_v=a1&ds=AMP&aip&dt=TITLE&sr=SCREEN_WIDTHxSCREEN_HEIGHT&cid=CLIENT_ID(AMP_ECID_GOOGLE,,_ga)&dl=SOURCE_URL&dr=EXTERNAL_REFERRER&sd=SCREEN_COLOR_DEPTH&ul=BROWSER_LANGUAGE&de=DOCUMENT_CHARSET&jid=RANDOM&t=pageview&a=PAGE_VIEW_ID&z=RANDOM&_r=1&_utmht=TIMESTAMP&tid=UA-111257621-5
+File Name: C:\Downloaded Web Sites\portofmokha.com\r\collect
+Content Type: image/gif
+
