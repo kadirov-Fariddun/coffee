@@ -75,4 +75,3 @@ function controlVimeoVideo() {
     init();
   }
 controlVimeoVideo();
-
