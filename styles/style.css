@@ -2,6 +2,10 @@
   font-family: "post-grotesk-book", sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 html::-webkit-scrollbar-thumb {
   background-color: #4B5254;
   -webkit-appearance: none;
@@ -934,6 +938,7 @@ a {
   justify-content: center;
   align-items: center;
   background-color: #c0d6d7;
+  margin-bottom: 20px;
 }
 @media (max-width: 768px) {
   .partners-logo {
@@ -988,6 +993,198 @@ a {
   width: 100%;
   height: 100px;
   margin-bottom: 30px;
+}
+
+.footer {
+  background-color: #4B5254;
+  padding: 54px 0;
+}
+@media (max-width: 768px) {
+  .footer {
+    padding: 30px 0;
+  }
+}
+.footer-flex {
+  display: flex;
+  justify-content: space-between;
+}
+@media (max-width: 768px) {
+  .footer-flex {
+    flex-direction: column;
+    row-gap: 20px;
+  }
+}
+.footer-flex .footer-link {
+  display: flex;
+  column-gap: 60px;
+}
+@media (max-width: 768px) {
+  .footer-flex .footer-link {
+    justify-content: space-around;
+  }
+}
+.footer-flex .footer-link li {
+  display: block;
+}
+.footer-flex .footer-link li a {
+  display: block;
+  color: #FFF;
+  font-size: 13.234px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0.7px;
+  margin-bottom: 13px;
+}
+@media (max-width: 768px) {
+  .footer-flex .footer-link li a {
+    text-align: center;
+  }
+}
+.footer-flex .footer-link li a:hover {
+  text-decoration: underline;
+}
+.footer-form-title {
+  color: #FFFCFC;
+  font-size: 14.125px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: 0.8px;
+  margin-bottom: 15px;
+}
+@media (max-width: 768px) {
+  .footer-form-title {
+    display: none;
+  }
+}
+.footer-form-flex {
+  display: flex;
+  column-gap: 20px;
+}
+@media (max-width: 600px) {
+  .footer-form-flex {
+    flex-direction: column;
+    row-gap: 20px;
+    align-items: center;
+  }
+}
+.footer-form-input {
+  display: flex;
+  border: 2px solid #fff;
+}
+@media (max-width: 768px) {
+  .footer-form-input {
+    max-width: 100%;
+    width: 100%;
+  }
+}
+.footer-form-input input {
+  max-width: 200px;
+  width: 100%;
+  height: 40px;
+  padding: 0 20px;
+  outline: none;
+}
+@media (max-width: 768px) {
+  .footer-form-input input {
+    max-width: 100%;
+  }
+}
+.footer-form-input input::placeholder {
+  color: #777;
+  font-size: 10.875px;
+  font-weight: 400;
+}
+.footer-form-input button {
+  width: 64px;
+  height: 40px;
+  background-color: #4B5254;
+  border: none;
+  cursor: pointer;
+}
+.footer-form-input button svg {
+  fill: #FFF;
+}
+.footer-form-social {
+  display: flex;
+  column-gap: 20px;
+  align-items: center;
+}
+.footer-form-social a svg {
+  fill: #fff;
+}
+.footer-bottom {
+  max-width: 100%;
+  display: block;
+}
+.footer-bottom .footer-logo {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 22px;
+}
+@media (max-width: 768px) {
+  .footer-bottom .footer-logo {
+    border-top: 1px solid rgba(255, 255, 255, 0.4);
+    justify-content: center;
+    margin-top: 20px;
+    padding-top: 25px;
+  }
+}
+.footer-bottom .footer-logo span {
+  color: #FFF;
+  font-size: 14.625px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0.8px;
+}
+.footer-bottom .btn-top {
+  position: fixed;
+  right: 20px;
+  bottom: 40px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #c0d6d7;
+  border-radius: 6px;
+  display: none;
+}
+.footer-bottom .btn-top.active {
+  display: flex;
+}
+.footer-bottom .btn-top span {
+  display: none;
+}
+@media (max-width: 768px) {
+  .footer-bottom .btn-top {
+    max-width: 100%;
+    border-top: 1px solid rgba(255, 255, 255, 0.4);
+    display: flex;
+    height: 80px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    flex-direction: column;
+    border-radius: 0px;
+    position: static;
+    background-color: transparent;
+    width: 100%;
+  }
+  .footer-bottom .btn-top svg {
+    fill: #fff;
+    width: 30px;
+    height: 30px;
+  }
+  .footer-bottom .btn-top span {
+    font-size: 12px;
+    color: #fff;
+    display: block;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */

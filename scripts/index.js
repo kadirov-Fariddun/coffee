@@ -2,6 +2,7 @@
 function headerFixed(){
     const menuDesctop = document.querySelector('.menu-desctop');
     const menuMobile = document.querySelector('.menu-mobile');
+    const btnTop = document.querySelector('.btn-top')
    window.onscroll = () =>{
     const logo = menuDesctop.querySelector('.logo img');
         if(window.scrollY > 42){
@@ -12,7 +13,12 @@ function headerFixed(){
             logo.src = '../images/logo-white.webp'
             menuMobile.classList.remove('header-fixed');
             menuDesctop.classList.remove('header-fixed');
-        }
+        };
+        if(window.scrollY > 470){
+            btnTop.classList.add('active');
+        }else{
+            btnTop.classList.remove('active');
+        };
     }
 };
 // создаем функцию show menu
