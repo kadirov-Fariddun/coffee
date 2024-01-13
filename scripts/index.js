@@ -75,3 +75,23 @@ function controlVimeoVideo() {
     init();
   }
 controlVimeoVideo();
+//функциия которая при ховере отображает нужные title
+function hoverTitle(){
+    const titles = {
+        1:'"The most expensive and critically-acclaimed coffee in America, maybe the world."',
+        2:'"After the first three sips, I was one-hundred percent sure it was the best coffee I\'d ever tasted"',
+        3:'"Port of Mokha Coffee Is Worth Every Penny."',
+        4:'"Connoisseurs will note hints of dried strawberry, coffee blossom and crystallin."',
+        5:'"Caffeine enthusiasts rejoice."'
+    }
+    const title = document.querySelector('.partners-title');
+    const logos = document.querySelectorAll('.partners-flex img');
+    for (let i = 0; i < logos.length; i++) {
+        const logo = logos[i];
+        let num = logo.getAttribute('data-number');
+        logo.onmousemove = () => {
+            title.textContent = titles[num];
+        }
+    }
+};
+hoverTitle();
