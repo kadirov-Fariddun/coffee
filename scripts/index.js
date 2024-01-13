@@ -7,9 +7,9 @@ function headerFixed(){
         if(window.scrollY > 42){
             menuDesctop.classList.add('header-fixed');
             menuMobile.classList.add('header-fixed');
-            logo.src = '/images/logo.webp';
+            logo.src = '../images/logo.webp';
         }else{
-            logo.src = '/images/logo-white.webp'
+            logo.src = '../images/logo-white.webp'
             menuMobile.classList.remove('header-fixed');
             menuDesctop.classList.remove('header-fixed');
         }
@@ -67,7 +67,7 @@ function controlVimeoVideo() {
                 <path d="m9 17 8-5-8-5z"></path>
             </svg>
             `;
-            vimeoPlay.style.backgroundImage = 'url(/images/bg-vimeo.jpg)'
+            vimeoPlay.style.backgroundImage = 'url(../images/bg-vimeo.jpg)'
             }
         };
        
