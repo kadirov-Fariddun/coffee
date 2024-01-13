@@ -1209,7 +1209,18 @@ a{
         letter-spacing: 5px;
         text-transform: uppercase;
     }
+    //show
     &.shop{
         background-image: url('../images/shop-bg-head.webp');
+    }
+    //brew-guides
+    &.brew-guides{
+        background: linear-gradient(rgba(29, 30, 32, 0.6), rgba(29, 30, 32, 0)),
+        url('../images/brew-guides-head-bg.jpg');
+    }
+    // products
+    &.products{
+        background: linear-gradient(rgba(29, 30, 32, 0.6), rgba(29, 30, 32, 0)),
+        url('../images/shop-bg-head.webp');
     }
 }

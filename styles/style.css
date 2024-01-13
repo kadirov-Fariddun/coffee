@@ -1227,5 +1227,11 @@ a {
 .head-page-titles.shop {
   background-image: url("../images/shop-bg-head.webp");
 }
+.head-page-titles.brew-guides {
+  background: linear-gradient(rgba(29, 30, 32, 0.6), rgba(29, 30, 32, 0)), url("../images/brew-guides-head-bg.jpg");
+}
+.head-page-titles.products {
+  background: linear-gradient(rgba(29, 30, 32, 0.6), rgba(29, 30, 32, 0)), url("../images/shop-bg-head.webp");
+}
 
 /*# sourceMappingURL=style.css.map */
