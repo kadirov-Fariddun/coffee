@@ -573,12 +573,350 @@ a{
     height: 60px;
     border: 1px solid #1D1E20;
     max-width: 160px;
+    font-weight: 500;
     width: 100%;
     color: #1D1E20;
     transition: .3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     &:hover{
         transition: .3s;
-        background-color: #fff;
+        background-color: #1D1E20;
         color: #fff;
     }
 }
+
+//coffee-live
+.coffee-live{
+    max-width: 100%;
+    background: linear-gradient(90deg, #CBDED2 30%, rgba(203, 222, 210, 0.00) 100%),
+  url('../images/coffee-live-bg.webp');
+  background-repeat: no-repeat;
+  background-size: 100%,cover;
+  background-position:center, right top;
+  height: 467px;
+  margin-top: 30px;
+//   @media(max-width:$bp400){
+//     background: linear-gradient(90deg, #CBDED2 30%, rgba(203, 222, 210, 0.00) 100%),
+//     url('../images/coffee-live-bg.webp');
+//   }
+  // titles
+  &-titles{
+    padding: 80px;
+    max-width: 50%;
+    row-gap: 47px;
+    display: flex;
+    flex-direction: column;
+    @media(max-width:$bp1024){
+        padding-right: 0;
+        max-width: 65%;
+    }
+    @media(max-width:$bp768){
+        padding: 0 0 0 30px;
+        justify-content: center;
+        height: 100%;
+    }
+    @media(max-width:$bp700){
+        max-width: 90%;
+    }
+    .title{
+        max-width: 378px;
+        width: 100%;
+        text-align: left;
+        margin-bottom: 0;
+        @media(max-width:$bp1024){
+            max-width: 100%;
+        }
+    }
+    .text{
+        max-width: 378px;
+        width: 100%;
+        text-align: left;
+        color: #1B3C33;
+        font-size: 14.625px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 32px; 
+        letter-spacing: 0.8px;
+        @media(max-width:$bp1024){
+            max-width: 100%;
+        }
+        @media(max-width:$bp700){
+            color: #000;
+           font-weight: 500;
+        }
+    }
+  }
+}
+//slider-carousel
+.slider-carousel{
+    position: relative;
+    //slick-dots
+    .slick-dots{
+        position: absolute;
+        left: 50%;
+        bottom: 10px;
+        transform: translateX(-50%);
+        li{
+            width: 20px;
+            &.slick-active{
+                button{
+                    opacity: 1;
+                }
+            }
+            button{
+                max-width: 100%;
+                height: 100%;
+            }
+        }
+    }
+
+
+
+        .slider-item-1{
+        background: linear-gradient(90deg, #c0d6d7 30%, rgba(203, 222, 210, 0.00) 100%),
+        url('../images/slider-bg-1.webp');
+        background-repeat: no-repeat;
+        background-size: 100%,cover;
+        background-position:center, right top;
+        @media(max-width:$bp400){
+            background: url(../images/slider-bg-1.webp), linear-gradient(354deg, #c0d6d7 40%, rgba(203, 222, 210, 0) 80%);
+            background-position: center top, center bottom;
+            background-repeat: no-repeat;
+            background-size: 400px 180px, 100% 100%;
+        }
+        .title{
+            font-weight: 700;
+        }
+        @media(max-width:$bp400){
+            .coffee-live-titles{
+            max-width: 100%;
+            padding:0 0px;
+            row-gap: 20px;
+            justify-content: flex-end;
+            align-items: center;
+            padding-bottom: 25px;
+            .text{
+                width: 100%;
+                background: linear-gradient(354deg, #c0d6d7 56%, rgba(203, 222, 210, 0) 150%);
+                padding: 0 20px;
+                text-align: center;
+            }
+            .slider-item-logo{
+                justify-content: center;
+                &-info{
+                    text-align: center;
+                }
+            }
+            }
+        }
+        }
+        //.slider-item-2
+        .slider-item-2{
+            background: linear-gradient(90deg,rgba(203, 222, 210, 0.00)  0%, #c0d6d7 70%),
+            url('../images/slider-bg-2.webp');
+            background-repeat: no-repeat;
+            background-size: 100%,cover;
+            background-position:left center, left top;
+            position: relative;
+            
+            @media(max-width:$bp700){
+                background-position:left center, right top;
+            }
+            @media(max-width:$bp400){
+                background: url(../images/slider-bg-2.webp), linear-gradient(354deg, #c0d6d7 40%, rgba(203, 222, 210, 0) 80%);
+                background-position: center top, center bottom;
+                background-repeat: no-repeat;
+                background-size: 400px 200px, 100% 100%;
+                
+            }
+            .coffee-live-titles{
+                position: absolute;
+                right: 0;
+                @media(max-width:$bp1024){
+                    padding-right: 0;
+                    max-width: 65%;
+                }
+                @media(max-width:$bp768){
+                    padding: 0 30px 0 0px;
+                    justify-content: center;
+                    height: 100%;
+                }
+                @media(max-width:$bp700){
+                    max-width: 90%;
+                }
+                @media(max-width:$bp700){
+                    align-items: flex-end;
+
+                    .text{
+                        text-align: right;
+                        font-weight: 700;
+                    }
+                    .slider-item-logo{
+                        text-align: right;
+                        justify-content: flex-end;
+                    }
+                }
+                @media(max-width:$bp400){
+                    max-width: 100%;
+                    padding: 0;
+                        max-width: 100%;
+                        padding:0 0px;
+                        row-gap: 20px;
+                        justify-content: flex-end;
+                        align-items: center;
+                        padding-bottom: 25px;
+                        .text{
+                            width: 100%;
+                            background: linear-gradient(354deg, #c0d6d7 56%, rgba(203, 222, 210, 0) 150%);
+                            padding: 0 20px;
+                            text-align: center;
+                        }
+                        .slider-item-logo{
+                            justify-content: center;
+                            &-info{
+                                text-align: center;
+                            }
+                        }
+                }
+            }
+        }
+      // // slider-item 3
+      .slider-item-3{
+        background: linear-gradient(90deg, #c0d6d7 30%, rgba(203, 222, 210, 0.00) 100%),
+        url('../images/slider-bg-3.webp');
+        background-repeat: no-repeat;
+        background-size: 100%,cover;
+        background-position:center, 0% top;
+        @media(max-width:$bp400){
+          background: url(../images/slider-bg-3.webp), linear-gradient(354deg, #c0d6d7 40%, rgba(203, 222, 210, 0) 80%);
+          background-position: center top, center bottom;
+          background-repeat: no-repeat;
+          background-size: 400px 180px, 100% 100%;
+        }
+        @media(max-width:$bp400){
+            .coffee-live-titles{
+            max-width: 100%;
+            padding:0 0px;
+            row-gap: 20px;
+            justify-content: flex-end;
+            align-items: center;
+            padding-bottom: 25px;
+            .text{
+                width: 100%;
+                background: linear-gradient(354deg, #c0d6d7 56%, rgba(203, 222, 210, 0) 150%);
+                padding: 0 20px;
+                text-align: center;
+            }
+            .slider-item-logo{
+                justify-content: center;
+                &-info{
+                    text-align: center;
+                }
+            }
+            }
+        }
+    }
+    // slider-item-4
+    .slider-item-4{
+    background: linear-gradient(90deg,rgba(203, 222, 210, 0.00)  0%, #c0d6d7 70%),
+            url('../images/slider-bg-4.webp');
+            background-repeat: no-repeat;
+            background-size: 100%,cover;
+            background-position:left center, left top;
+            position: relative;
+            
+            @media(max-width:$bp700){
+                background-position:left center, right top;
+            }
+            @media(max-width:$bp400){
+                background: url(../images/slider-bg-4.webp), linear-gradient(354deg, #c0d6d7 40%, rgba(203, 222, 210, 0) 80%);
+                background-position: center top, center bottom;
+                background-repeat: no-repeat;
+                background-size: 400px 200px, 100% 100%;
+                
+            }
+            .coffee-live-titles{
+                position: absolute;
+                right: 0;
+                @media(max-width:$bp1024){
+                    padding-right: 0;
+                    max-width: 65%;
+                }
+                @media(max-width:$bp768){
+                    padding: 0 30px 0 0px;
+                    justify-content: center;
+                    height: 100%;
+                }
+                @media(max-width:$bp700){
+                    max-width: 90%;
+                }
+                @media(max-width:$bp700){
+                    align-items: flex-end;
+
+                    .text{
+                        text-align: right;
+                        font-weight: 700;
+                    }
+                    .slider-item-logo{
+                        text-align: right;
+                        justify-content: flex-end;
+                    }
+                }
+                @media(max-width:$bp400){
+                    max-width: 100%;
+                    padding: 0;
+                        max-width: 100%;
+                        padding:0 0px;
+                        row-gap: 20px;
+                        justify-content: flex-end;
+                        align-items: center;
+                        padding-bottom: 25px;
+                        .text{
+                            width: 100%;
+                            background: linear-gradient(354deg, #c0d6d7 56%, rgba(203, 222, 210, 0) 150%);
+                            padding: 0 20px;
+                            text-align: center;
+                        }
+                        .slider-item-logo{
+                            justify-content: center;
+                            &-info{
+                                text-align: center;
+                            }
+                        }
+                }
+            }
+        }
+}
+
+//slider-item-logo
+.slider-item-logo{
+    display: flex;
+    align-items: center;
+    img{
+        margin-right: 20px;
+    }
+    //info
+    &-info{
+        //title
+        &-title{
+            letter-spacing: .0625em;
+            line-height: 1.25em;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+        //text
+        &-text{
+            letter-spacing: .125em;
+            font-size: 9px;
+            span{
+                display: block;
+                font-weight: 500;
+                font-size: 16px;
+                line-height: 24px;
+                margin-bottom: 10px;
+            }
+        }
+    }
+  }
