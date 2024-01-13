@@ -570,8 +570,18 @@ a {
   }
 }
 
-body {
-  height: 500vh;
+.btn {
+  height: 60px;
+  border: 1px solid #1D1E20;
+  max-width: 160px;
+  width: 100%;
+  color: #1D1E20;
+  transition: 0.3s;
+}
+.btn:hover {
+  transition: 0.3s;
+  background-color: #fff;
+  color: #fff;
 }
 
 /*# sourceMappingURL=style.css.map */

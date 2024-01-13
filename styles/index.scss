@@ -505,7 +505,7 @@ a{
             justify-content: center;
             align-items: center;
             z-index: 10;
-            background-image: url('/images/bg-vimeo.jpg');
+            background-image: url('../images/bg-vimeo.jpg');
             background-repeat: no-repeat;
             background-size: cover;
             background-position: center;
@@ -569,6 +569,16 @@ a{
         }
     }
 }
-body{
-    height: 500vh;
+.btn{
+    height: 60px;
+    border: 1px solid #1D1E20;
+    max-width: 160px;
+    width: 100%;
+    color: #1D1E20;
+    transition: .3s;
+    &:hover{
+        transition: .3s;
+        background-color: #fff;
+        color: #fff;
+    }
 }
