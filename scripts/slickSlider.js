@@ -8,4 +8,8 @@
         autoplay:true,
         autoplaySpeed:3000,
       });
+      $('.slider-products-track').slick({
+        slidesToShow:1,
+        dots:true,
+      })
 })();

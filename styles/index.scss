@@ -378,7 +378,7 @@ a{
     }
 }
 
-.card{
+.card-view{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -1193,7 +1193,7 @@ a{
     display: flex;
     align-items: center;
     background-repeat: no-repeat;
-    background-size:100% 100%;
+    background-size:cover;
     background-position: center;
     display: flex;
     align-items: center;
@@ -1222,5 +1222,250 @@ a{
     &.products{
         background: linear-gradient(rgba(29, 30, 32, 0.6), rgba(29, 30, 32, 0)),
         url('../images/shop-bg-head.webp');
+    }
+}
+
+.card{
+    position: relative;
+    @media(max-width:$bp400){
+        padding: 0 10px;
+    }
+    //image
+    &-image{
+        padding: 40px 0px;
+        width: 100%;
+        img{
+            max-width: 300px;
+            width: 100%;
+            // @media(max-width:$bp400){
+            //     max-width: 170px;
+            //     width: 100%;
+            // }
+        }
+    }
+    //title
+    &-title{
+        text-align: center;
+        color: #191919;
+        font-size: 12.906px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: 17.5px; 
+        letter-spacing: 0.7px;
+        margin-bottom: 16px;
+        width: 100%;
+    }
+    //-reviews
+    &-reviews{
+        display: flex;
+        align-items: center;
+        column-gap: 5px;
+        justify-content: center;
+        width: 100%;
+        @media(max-width:$bp600){
+            flex-direction: column;
+            margin-bottom: 10px;
+        }
+        //star
+        &-star{
+            svg{
+                fill: #777;
+                @media(max-width:$bp400){
+                    width: 14px;
+                    height: 14px;
+                }
+            }
+            
+        }
+        //num
+        &-num{
+            color: #777;
+            text-align: center;
+            font-size: 15.375px;
+            font-weight: 300;
+            line-height: 22.4px;
+        }
+    }
+    //price
+    &-price{
+        text-align: center;
+        color: #191919;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 17.5px;
+        letter-spacing: 0.7px;
+        width: 100%;
+    }
+    &:hover{
+        .card-eye{
+            transition: .3s;
+            opacity: 1;
+        }
+    }
+    //eye
+    &-eye{
+        display: flex;
+        opacity: 0;
+        transition: .3s;
+        align-items: center;
+        position: absolute;
+        right: 10px;
+        top: 10px;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        background-color: transparent;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        &:hover{
+            background-color: #000;
+            svg{
+                fill: #fff;
+            }
+            &::before{
+                transition: .3s;
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+        
+        &::before{
+            content: "Quick View";
+            position: absolute;
+            right: 70px;
+            width: 100px;
+            text-align: right;
+            font-size: 14px;
+            font-weight: 600;
+            color: #777;
+            word-wrap: break-word;
+            display: block;
+            transition: .3s;
+            transform: translateX(-20px);
+            opacity: 0;
+        }
+        @media(max-width:$bp1024){
+            &::before{
+                display: none;
+            }
+            margin: 20px auto 0 auto;
+            width: fit-content;
+            position: static;
+            opacity: 1;
+        }
+    }
+    //sold out 
+    &-sold-out{
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: fit-content;
+        padding: 3px 5px;
+        border-radius: 2px;
+        background-color: #000;
+        color: #fff;
+        text-align: center;
+        font-size: 11.063px;
+        font-weight: 500;
+        line-height: 12px;
+    }
+    //list
+    &-litr{
+        color: #777;
+        font-size: 14.75px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 16px;
+        padding: 5px;
+        border: none;
+        margin-top: 20px;
+        outline: none;
+        max-width: 150px;
+        option{
+            font-size: 14px;
+            padding: 0;
+        }
+    }
+}
+
+//slider-products
+.slider-products{
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    padding-top: 100px;
+    .slick-dots{
+        position: absolute;
+        top: -50px;
+        width: 100%;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        @media(max-width:$bp768){
+            flex-direction: column;
+            height: 50px;
+            row-gap: 20px;
+        }
+            li{
+                width: 33%;
+                button{
+                    width: 100%;
+                    &::before{
+                        width: fit-content;
+                        position: absolute;
+                        left: 50%;
+                        top: 50%;
+                        transform: translate(-50%,-50%);
+                        content: "ALL PRODUCTS";
+                        font-size: 16px;
+                        color: #000;
+                        font-weight: 600;
+                        line-height: 22px; 
+                        letter-spacing: 2px;
+                        padding-bottom: 5px;
+                        
+                        @media(max-width:$bp768){
+                            width: 100%;
+                        }
+                    }
+                }
+                &:nth-child(2) button::before{
+                    content: "GIFTS";
+                }
+                &:nth-child(3) button::before{
+                    content: "SUBSCRIPTIONS";
+                }
+                &.slick-active button::before{
+                    border-bottom: 1px solid #000;
+                }
+            }
+    }
+    .container{
+        position: relative;
+        @media(max-width:$bp400){
+            padding: 0;
+        }
+    }
+    //.all
+    &-all,&-gifts{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        column-gap: 20px;
+        row-gap: 30px;
+        @media(max-width:800px){
+            // display: grid;
+            flex-wrap: wrap;
+            column-gap: 0;
+            grid-template-columns: 50% 50%;
+        }
+        // @media(max-width:$bp400){
+
+        // }
+    }
+    &-subscriptions{
+        .card{width: fit-content;}
     }
 }
