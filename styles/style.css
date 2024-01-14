@@ -1490,4 +1490,66 @@ a {
   width: fit-content;
 }
 
+.instructions {
+  padding: 60px 0 20px 0;
+}
+.instructions-text {
+  font-size: 16px;
+  text-transform: none;
+  text-align: center;
+  color: #777;
+}
+.instructions-flex {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  border: 1px solid #777;
+}
+@media (max-width: 768px) {
+  .instructions-flex {
+    display: block;
+  }
+}
+.instructions-item {
+  height: 165px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #191919;
+  font-size: 18px;
+  font-weight: 600;
+  transition: 0.3s;
+}
+@media (max-width: 768px) {
+  .instructions-item {
+    border-top: 1px solid #777;
+  }
+}
+.instructions-item:nth-child(1) {
+  border-right: 1px solid #777;
+}
+.instructions-item:nth-child(2) {
+  border-right: 1px solid #777;
+}
+.instructions-item:nth-child(3) {
+  border-right: 1px solid #777;
+}
+.instructions-item:nth-child(5) {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  border-top: 1px solid #777;
+  border-right: 1px solid #777;
+}
+.instructions-item:nth-child(6) {
+  grid-column-start: 3;
+  grid-column-end: 6;
+  border-top: 1px solid #777;
+}
+.instructions-item:hover {
+  transition: 0.3s;
+  background-color: #4B5254;
+  color: #fff;
+}
+
 /*# sourceMappingURL=style.css.map */
