@@ -1396,6 +1396,9 @@ a{
     overflow: hidden;
     position: relative;
     padding-top: 100px;
+    @media(max-width:$bp768){
+        padding-top: 120px;
+    }
     .slick-dots{
         position: absolute;
         top: -50px;
@@ -1408,6 +1411,7 @@ a{
             flex-direction: column;
             height: 50px;
             row-gap: 20px;
+            top: -70px;
         }
             li{
                 width: 33%;
@@ -1429,6 +1433,10 @@ a{
                         
                         @media(max-width:$bp768){
                             width: 100%;
+                            font-size: 14px;
+                        }
+                        @media(max-width:$bp400){
+                            width: 150%;
                         }
                     }
                 }

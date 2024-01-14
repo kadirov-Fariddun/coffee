@@ -1394,6 +1394,11 @@ a {
   position: relative;
   padding-top: 100px;
 }
+@media (max-width: 768px) {
+  .slider-products {
+    padding-top: 120px;
+  }
+}
 .slider-products .slick-dots {
   position: absolute;
   top: -50px;
@@ -1408,6 +1413,7 @@ a {
     flex-direction: column;
     height: 50px;
     row-gap: 20px;
+    top: -70px;
   }
 }
 .slider-products .slick-dots li {
@@ -1433,6 +1439,12 @@ a {
 @media (max-width: 768px) {
   .slider-products .slick-dots li button::before {
     width: 100%;
+    font-size: 14px;
+  }
+}
+@media (max-width: 400px) {
+  .slider-products .slick-dots li button::before {
+    width: 150%;
   }
 }
 .slider-products .slick-dots li:nth-child(2) button::before {
