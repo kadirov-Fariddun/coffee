@@ -8,9 +8,9 @@ function headerFixed(){
         if(window.scrollY > 42){
             menuDesctop.classList.add('header-fixed');
             menuMobile.classList.add('header-fixed');
-            logo.src = '../images/logo.webp';
+            logo.src = '/images/logo.webp';
         }else{
-            logo.src = '../images/logo-white.webp'
+            logo.src = '/images/logo-white.webp'
             menuMobile.classList.remove('header-fixed');
             menuDesctop.classList.remove('header-fixed');
         };
@@ -101,3 +101,42 @@ function hoverTitle(){
     }
 };
 hoverTitle();
+
+function changeTitleCoffeePage(buttons,titleBlock){
+    const btns = document.querySelectorAll(buttons);
+    const title = document.querySelector(titleBlock);
+    const titles = {
+        '1':'',
+        '2':'Gift a unique coffee experience of some of the highest-rated coffee in the world. Guaranteed to impress the biggest coffee enthusiasts.',
+        '3':'Great coffee you can rely on every month. Choose between subscriptions that delivery rotating monthly flavors or for those who want to enjoy the same great cup every month.',
+    };
+    for(let i = 0;i<btns.length;i++){
+        let btn = btns[i].querySelector('button').textContent;
+        btns[i].onclick = () => {
+             title.querySelector('.head-page-title').innerHTML = 'GIFTS';
+             if(btn == '1'){
+                title.style.backgroundImage = 'url(../images/shop-bg-head.webp)'
+                title.innerHTML = 
+             `
+             <div class="head-page-title">GIFTS</div>
+             <p>${titles[btn]}</p>`;
+             title.innerHTML = 
+             `
+             <div class="head-page-title">All products</div>`;
+             }else if(btn == '2'){
+                title.style.backgroundImage = 'url(../images/shop-bg-2.webp)'
+                title.innerHTML = 
+             `
+             <div class="head-page-title">GIFTS</div>
+             <p>${titles[btn]}</p>`;
+             }else{
+                title.innerHTML = 
+                `
+                <div class="head-page-title">SUBSCRIPTIONS</div>
+                <p>${titles[btn]}</p>`;
+             }
+        }
+       
+    }
+}
+changeTitleCoffeePage('.slider-products .slick-dots li','.shop')
