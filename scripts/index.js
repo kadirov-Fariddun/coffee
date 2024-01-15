@@ -139,4 +139,3 @@ function changeTitleCoffeePage(buttons,titleBlock){
        
     }
 }
-changeTitleCoffeePage('.slider-products .slick-dots li','.shop')
