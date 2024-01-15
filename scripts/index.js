@@ -63,7 +63,6 @@ function controlVimeoVideo() {
             </svg>
             `;
             vimeoPlay.style.backgroundImage = 'none';
-           
             }else{
             playV = false;
             player.pause();
