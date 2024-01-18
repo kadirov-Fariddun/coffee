@@ -81,7 +81,7 @@ function controlVimeoVideo() {
   }
 controlVimeoVideo();
 //функциия которая при ховере отображает нужные title
-function hoverTitle(){
+function hoverTitle(parentBlock,titleBlock){
     const titles = {
         1:'"The most expensive and critically-acclaimed coffee in America, maybe the world."',
         2:'"After the first three sips, I was one-hundred percent sure it was the best coffee I\'d ever tasted"',
@@ -89,17 +89,19 @@ function hoverTitle(){
         4:'"Connoisseurs will note hints of dried strawberry, coffee blossom and crystallin."',
         5:'"Caffeine enthusiasts rejoice."'
     }
-    const title = document.querySelector('.partners-title');
-    const logos = document.querySelectorAll('.partners-flex img');
+    const title = document.querySelector(`${titleBlock}`);
+    const logos = document.querySelectorAll(`${parentBlock} img`);
     for (let i = 0; i < logos.length; i++) {
         const logo = logos[i];
         let num = logo.getAttribute('data-number');
         logo.onmousemove = () => {
             title.textContent = titles[num];
-        }
+        };
+        console.log(logo);
     }
 };
-hoverTitle();
+hoverTitle('.partners-flex','.partners-title');
+
 
 function changeTitleCoffeePage(buttons,titleBlock){
     const btns = document.querySelectorAll(buttons);
