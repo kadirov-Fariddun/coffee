@@ -476,6 +476,12 @@ a {
   font-weight: 400;
   line-height: 22px;
 }
+.text.brew-guides-text {
+  font-size: 16.5px;
+  font-family: "trio-grotesk-medium", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  line-height: 1.5em;
+  font-weight: 700 !important;
+}
 
 .advertising {
   padding: 56px 0 0 0;
@@ -1268,6 +1274,11 @@ a {
 .head-page-titles.brew-guides {
   background: linear-gradient(rgba(29, 30, 32, 0.6), rgba(29, 30, 32, 0)), url("../images/brew-guides-head-bg.jpg");
 }
+.head-page-titles.brew-guides-info {
+  background: linear-gradient(rgba(29, 30, 32, 0.6), rgba(29, 30, 32, 0)), url("../images/brew-guides-infos/bg.webp");
+  background-position: center;
+  background-size: 100%;
+}
 .head-page-titles.products {
   background: linear-gradient(rgba(29, 30, 32, 0.6), rgba(29, 30, 32, 0)), url("../images/shop-bg-head.webp");
 }
@@ -1279,6 +1290,15 @@ a {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+}
+.head-page-titles.contact {
+  background: linear-gradient(rgba(29, 30, 32, 0.6), rgba(29, 30, 32, 0)), url("../images/story-bg-6.webp");
+  background-position: center, center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.head-page-titles.shipping {
+  background: linear-gradient(rgba(29, 30, 32, 0.6), rgba(29, 30, 32, 0)), url("../images/shop-bg-head.webp");
 }
 
 .card {
@@ -2224,6 +2244,140 @@ a {
 }
 .gallery .gallery-last-item img {
   width: 100%;
+}
+
+.adres {
+  padding-top: 50px;
+}
+.adres-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.adres-item svg {
+  margin-bottom: 20px;
+}
+.adres-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+@media (max-width: 500px) {
+  .adres-flex {
+    flex-direction: column;
+    row-gap: 40px;
+  }
+}
+
+.contact-form form ul {
+  display: flex;
+  column-gap: 20px;
+}
+@media (max-width: 768px) {
+  .contact-form form ul {
+    flex-direction: column;
+  }
+}
+.contact-form form ul li {
+  display: block;
+  width: 100%;
+}
+.contact-form form ul li input {
+  width: 100%;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #fff;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  border: none;
+}
+.contact-form form ul li input::placeholder {
+  font-weight: 500;
+}
+.contact-form form ul li textarea {
+  padding: 10px 20px;
+  width: 100%;
+  display: block;
+  resize: none;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+}
+.contact-form form ul li textarea::placeholder {
+  font-weight: 500;
+}
+
+.contact-from-btn {
+  margin: 20px auto 40px auto;
+}
+
+.privacy-policy-contact .sub-title {
+  text-align: left;
+  color: #777;
+}
+.privacy-policy-contact .title {
+  text-align: left;
+  color: #777;
+}
+.privacy-policy-contact .text {
+  text-align: left;
+  color: #777;
+  margin-bottom: 20px;
+}
+
+.brew-guides-wrapp {
+  padding: 40px 0;
+}
+.brew-guides-wrapp .title {
+  color: #777;
+  text-align: left;
+  max-width: 960px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+.brew-guides-wrapp .text {
+  color: #777;
+  text-align: left;
+  max-width: 960px;
+  margin: 0 auto;
+  font-size: 18px;
+}
+
+.before-contact-form {
+  padding: 20px 0;
+  border-radius: 5px;
+  background-color: #CBDED2;
+}
+.before-contact-form-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+@media (max-width: 768px) {
+  .before-contact-form-flex {
+    flex-direction: column;
+    row-gap: 20px;
+  }
+}
+.before-contact-form-flex div {
+  text-align: left;
+  max-width: 350px;
+}
+@media (max-width: 768px) {
+  .before-contact-form-flex div {
+    max-width: 100%;
+  }
+  .before-contact-form-flex div .footer-form-input {
+    max-width: 100%;
+  }
+  .before-contact-form-flex div .footer-form-input input {
+    max-width: 100%;
+    width: 100%;
+  }
+}
+.before-contact-form-flex div .sub-title {
+  font-weight: 700;
 }
 
 /*# sourceMappingURL=style.css.map */

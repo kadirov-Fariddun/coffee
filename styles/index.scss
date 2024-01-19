@@ -479,6 +479,12 @@ a{
     font-style: normal;
     font-weight: 400;
     line-height: 22px;
+    &.brew-guides-text{
+        font-size: 16.5px;
+        font-family: "trio-grotesk-medium", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+        line-height: 1.5em;
+        font-weight: 700 !important;
+    }
 }
 
 //advertising
@@ -1254,6 +1260,13 @@ a{
         background: linear-gradient(rgba(29, 30, 32, 0.6), rgba(29, 30, 32, 0)),
         url('../images/brew-guides-head-bg.jpg');
     }
+    //brew-guides-info
+    &.brew-guides-info{
+        background: linear-gradient(rgba(29, 30, 32, 0.6), rgba(29, 30, 32, 0)),
+        url('../images/brew-guides-infos/bg.webp');
+        background-position: center;
+        background-size: 100%;
+    }
     // products
     &.products{
         background: linear-gradient(rgba(29, 30, 32, 0.6), rgba(29, 30, 32, 0)),
@@ -1270,6 +1283,18 @@ a{
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
+    }
+    //contact 
+    &.contact{
+        background:linear-gradient(rgba(29, 30, 32, 0.6), rgba(29, 30, 32, 0)), 
+        url('../images/story-bg-6.webp');
+        background-position: center,center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    //shipping
+    &.shipping{
+        background:linear-gradient(rgba(29, 30, 32, 0.6), rgba(29, 30, 32, 0)), url('../images/shop-bg-head.webp');
     }
 }
 
@@ -2225,4 +2250,140 @@ a{
         }
     }    
     
+}
+.adres{
+    padding-top: 50px;
+    //item
+    &-item{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        svg{
+            margin-bottom: 20px;
+        }
+    }
+    //flex
+    &-flex{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        @media(max-width:$bp500){
+            flex-direction: column;
+            row-gap: 40px;
+        }
+
+    }
+}
+//contact-form
+.contact-form{
+    form{
+        ul{
+            display: flex;
+            column-gap: 20px;
+            @media(max-width:$bp768){
+                flex-direction: column;
+            }
+            li{
+                display: block;
+                width: 100%;
+                input{
+                    width: 100%;
+                    padding: 10px 20px;
+                    font-size: 16px;
+                    &::placeholder{
+                        font-weight: 500;
+                    }
+                    background-color: #fff;
+                    border-radius: 5px;
+                    margin-bottom: 20px;
+                    border: none;
+                }
+                textarea{
+                    padding: 10px 20px;
+                    width: 100%;
+                    display: block;
+                    resize: none;
+                    font-size: 16px;
+                    border-radius: 5px;
+                    border: none;
+                    &::placeholder{
+                        font-weight: 500;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.contact-from-btn{
+    margin: 20px auto 40px auto;
+}
+
+//privacy-plocy-contact
+.privacy-policy-contact{
+    .sub-title{
+        text-align: left;
+        color: #777;
+    }
+    .title{
+        text-align: left;
+        color: #777
+    }
+    .text{
+        text-align: left;
+        color: #777;
+        margin-bottom: 20px;
+    }
+}
+
+.brew-guides-wrapp{
+    padding: 40px 0;
+    .title{
+        color: #777;
+        text-align: left;
+        max-width: 960px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    .text{
+        color: #777;
+        text-align: left;
+        max-width: 960px;
+        margin: 0 auto;
+        font-size: 18px;
+    }
+}
+
+.before-contact-form{
+    padding: 20px 0;
+    border-radius: 5px;
+    background-color: #CBDED2;
+    //flex
+    &-flex{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        @media(max-width:$bp768){
+            flex-direction: column;
+            row-gap: 20px;
+        }
+        div{
+            text-align: left;
+            max-width: 350px;
+            @media(max-width:$bp768){
+                max-width: 100%;
+                .footer-form-input{
+                    max-width: 100%;
+                    input{
+                    max-width: 100%;
+                    width: 100%;
+                    }
+                }
+            }
+            .sub-title{
+                font-weight: 700;
+            }
+        }
+    }
 }
