@@ -2387,3 +2387,395 @@ a{
         }
     }
 }
+
+
+//card-id
+.card-id{
+    //flex
+    &-flex{
+        display: grid;
+        position: relative;
+        grid-template-columns: 50% 50%;
+        padding-top: 50px;
+        @media(max-width:$bp768){
+            display: flex;
+            flex-direction: column;
+            row-gap: 40px;
+        }
+    }
+    //image
+    &-image{
+        position:sticky;
+        top: 80px;
+        height: fit-content;
+        width: 100%;
+        @media(max-width:$bp768){
+            position:static;
+        }
+        img{
+           width: 100%;
+           height: auto;
+        }
+        .zoom{
+            position: absolute;
+            right: 20px;
+            top: 0;
+            cursor: pointer;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: none;
+            transition: .3s;
+            &:hover{
+                transition: .3s;
+                background-color: #191919;
+                svg{
+                    fill: #fff;
+                }
+            }
+        }
+    }
+
+    // info
+    &-info{
+        // /title
+        .title{
+            text-align: left;
+            font-weight: 700;
+        }
+        //card-review
+        .card-reviews{
+            justify-content: flex-start ;
+        }
+        //card-price
+        .card-price{
+            text-align: left;
+            margin-bottom: 30px;
+        }
+        //btn-card-count
+        .btn-card-count{
+            display: flex;
+            align-items: center;
+            margin-bottom: 30px;
+            //minus/plus
+            .minus,.plus{
+                width: 50px;
+                height: 50px;
+                cursor: pointer;
+                font-size: 20px;
+                border: none;
+                outline: none;
+               
+            }
+            // count
+            .count{
+                margin: 0 10px;
+            }
+            //btn-add-busket
+            .btn-add-busket{
+                width: 100%;
+                margin-left: 20px;
+                height: 50px;
+                border-radius: 5px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                background-color: #ff967a;
+                border: none;
+                outline: none;
+                cursor: pointer;
+                svg{
+                    margin-right: 10px;
+                }
+            }
+        }
+        // h3
+        h3{
+            font-size: 30px;
+        }
+    }
+}
+
+.customer-reviews{
+    //title
+    .title{
+        font-weight: 700;
+        text-align: left;
+        font-size: 24px;
+        margin-bottom: 30px;
+    }
+    //ul
+    ul{
+        display: flex;
+        @media(max-width:$bp768){
+            display: flex;
+            flex-direction: column;
+            row-gap: 40px;
+        }
+        li{
+            //first li
+            &:first-child{
+                margin-right: 40px;
+                @media(max-width:$bp768){
+                    width: fit-content;
+                }
+            }
+            //midlle child
+            &:nth-child(2){
+                margin-right: auto;
+                @media(max-width:$bp768){
+                    order: 3;
+                }
+                div{
+                    display: flex;
+                    align-items: center;
+                    margin-bottom: 5px;
+                    svg{
+                        fill: #777;
+                    }
+                    span{
+                        display: flex;
+                        align-items: center;
+                        width: 120px;
+                        margin-left: 10px;
+                        margin-right: 5px;
+                        height: 16px;
+                        box-shadow: inset 0 0 1px #666;
+                        span{
+                            display: block;
+                            height: 100%;
+                            width: 0;
+                            background-color: #fbcd0a;
+                        }
+                    }
+                    p{
+                        color: #777;
+                    }
+                }
+            }
+            //last child
+            &:nth-child(3){
+                @media(max-width:$bp768){
+                    order: 2;
+                }
+                .btn{
+                    @media(max-width:$bp768){
+                        max-width: 100%;
+                        width: 100%;
+                    }
+                    width: 180px;
+                    display: block;
+                }
+            }
+        }
+    }
+}
+
+//card-review-form
+.card-review-form{
+    margin-top: 30px;
+    height: 0px;
+    overflow: hidden;
+    transition: .5s;
+    //show
+    &-show{
+        transition: .5s;
+        height: 1025px;
+        @media(max-width:685px){
+            height: 1050px;
+        }
+        @media(max-width:646px){
+            height: 1090px;
+        }
+        @media(max-width:369px){
+            height: 1110px;
+        }
+    }
+    label{
+        display: block;
+        margin-bottom: 20px;
+        span{
+            color: #777;
+        }
+        input{
+            width: 100%;
+            height: 40px;
+            border-radius: 5px;
+            padding: 0 20px;
+            font-size: 16px;
+            color: #777;
+            margin-top: 10px;
+            border:1px solid rgb(0,0,0,.15);
+            &::placeholder{
+                color: #777;
+            }
+            &[type=file]{
+                width: fit-content;
+                border: none;
+                height: 120px;
+                width: 120px;
+                opacity: 0;
+            }
+        }
+        .picture-input{
+            position: relative;
+            height: fit-content;
+            width: fit-content;
+            svg{
+                position: absolute;
+                left: 50%;
+                top: 50%;
+                transform: translate(-50%,-50%);
+                fill: #777;
+            }
+        }
+        textarea{
+            width: 100%;
+            height: 120px;
+            border-radius: 5px;
+            padding: 20px;
+            font-size: 16px;
+            color: #777;
+            margin-top: 10px;
+            resize: none;
+            border:1px solid rgb(0,0,0,.15);
+            &::placeholder{
+                color: #777;
+            }
+        }
+        //rating-hover
+        .rating-hover{
+            margin-top: 10px;
+            svg{
+                fill: #777;
+                &:last-child{
+                    opacity: .7;
+                }
+            }
+        }
+    }
+}
+
+.modal-image{
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: rgba(0,0,0,.5);
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    display: none;
+    &-show{
+        display: flex;
+    }
+    //wrapp
+    &-wrapp{
+        position: relative;
+    }
+    //close btn
+    .close-btn{
+        position: absolute;
+        right: -20px;
+        width: 40px;
+        height: 40px;
+        top: -40px;
+        font-size: 30px;
+        background-color: transparent;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+    }
+}
+
+.add-to-card-fixed{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding: 10px 0 30px;
+    width: 100%;
+    background-color: #c0d6d7;
+    display:none;
+    &-show{
+        display: block;
+    }
+    ul{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        li{
+            &:first-child{
+                display: flex;
+                .add-to-card-fixed-image{
+                    img{
+                    width: 30px;
+                    height: auto;
+                    }
+                    margin-right: 10px;
+                }
+                .add-to-card-fixed-info{
+                    display: flex;
+                    flex-direction: column;
+                    span{
+                        font-size: 14px;
+                        @media(max-width:$bp500){
+                            &:first-child{
+                                display: none;
+                            }
+                        }
+                    }
+                }
+            }
+            .btn-card-count{
+                display: flex;
+                .minus{
+                    height: 40px;
+                    background-color: #fff;
+                    width: 30px;
+                    font-size: 20px;
+                    color: #777;
+                    border: none;
+                    border-top-left-radius: 5px;
+                    border-bottom-left-radius: 5px;
+                }
+                .count{
+                    height: 40px;
+                    background-color: #fff;
+                    width: 30px;
+                    font-size: 14px;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+                    color: #777;
+                }
+                .plus{
+                    height: 40px;
+                    background-color: #fff;
+                    width: 30px;
+                    font-size: 20px;
+                    color: #777;
+                    border: none;
+                    border-top-right-radius: 5px;
+                    border-bottom-right-radius: 5px;
+                }
+                .btn-add-busket{
+                    margin-left: 30px;
+                    width: 120px;
+                    height: 40px;
+                    border-radius: 5px;
+                    background-color: #4B5254;
+                    border: none;
+                    color: #fff;
+                    @media(max-width:$bp400){
+                        margin-left: 0;
+                    }
+                }
+            }
+        }
+    }
+}
