@@ -158,15 +158,56 @@ a {
   transition: 0.3s;
   opacity: 0.5;
 }
-.menu-desctop .navbar .busket {
+
+.busket {
   margin-left: 40px;
   cursor: pointer;
   background-color: transparent;
   outline: none;
   border: none;
+  position: relative;
 }
-.menu-desctop .navbar .busket svg {
+.busket::before {
+  content: "Cart";
+  position: absolute;
+  bottom: -30px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 5px;
+  background-color: #fff;
+  font-weight: 700;
+  display: none;
+}
+.busket:hover::before {
+  display: block;
+}
+.busket svg {
   fill: #fff;
+}
+.busket span {
+  position: absolute;
+  right: -10px;
+  top: -15px;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background-color: #000;
+  color: #fff;
+  align-items: center;
+  justify-content: center;
+  font-style: 12px;
+  display: none;
+  opacity: 0;
+}
+@media (max-width: 1024px) {
+  .busket span {
+    right: 0px;
+    top: 0px;
+  }
+}
+.busket span.count-show {
+  display: flex;
+  opacity: 1;
 }
 
 .menu-mobile {
@@ -270,6 +311,9 @@ a {
   border: none;
   width: 40px;
   background: transparent;
+}
+.menu-mobile .busket-mobile svg {
+  fill: #191919;
 }
 
 .navbar a.active {
@@ -2755,6 +2799,426 @@ a {
   .add-to-card-fixed ul li .btn-card-count .btn-add-busket {
     margin-left: 0;
   }
+}
+
+.view-card {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+.view-card-show {
+  display: flex;
+}
+.view-card .view-card-wrapp {
+  display: none;
+  width: 80%;
+  padding: 40px;
+  background-color: #fff;
+  border-radius: 5px;
+  position: relative;
+}
+@media (max-width: 500px) {
+  .view-card .view-card-wrapp {
+    padding: 15px;
+  }
+}
+.view-card img {
+  width: 50px;
+  height: 50px;
+}
+.view-card-flex {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  align-items: flex-start;
+}
+@media (max-width: 768px) {
+  .view-card-flex {
+    grid-template-columns: 1fr;
+    row-gap: 20px;
+  }
+}
+.view-card-image {
+  padding: 20px;
+}
+@media (max-width: 768px) {
+  .view-card-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+.view-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+@media (max-width: 768px) {
+  .view-card-image img {
+    max-width: 300px;
+  }
+}
+.view-card-title {
+  font-size: 16px;
+  font-weight: 500;
+  text-align: left;
+  margin-bottom: 10px;
+}
+.view-card-price {
+  letter-spacing: 0.05em;
+  line-height: 40px;
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+.view-card-text {
+  text-align: left;
+  font-weight: 700;
+  color: #777;
+  line-height: 30px;
+  font-size: 16px;
+  margin-bottom: 30px;
+}
+.view-card .btn-card-count {
+  display: flex;
+  align-items: center;
+  margin-bottom: 60px;
+}
+.view-card .btn-card-count .minus, .view-card .btn-card-count .plus {
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  font-size: 20px;
+  border: none;
+  outline: none;
+}
+.view-card .btn-card-count .count {
+  margin: 0 10px;
+}
+.view-card .btn-card-count .btn-add-busket {
+  width: 100%;
+  margin-left: 20px;
+  height: 50px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff967a;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.view-card .btn-card-count .btn-add-busket svg {
+  margin-right: 10px;
+}
+.view-card-btn {
+  font-weight: 600;
+  color: #777;
+}
+.view-card .close-view-card {
+  position: absolute;
+  top: -40px;
+  right: -20px;
+  font-weight: 800;
+  font-size: 30px;
+  color: #fff;
+  cursor: pointer;
+}
+@media (max-width: 768px) {
+  .view-card .close-view-card {
+    top: -20px;
+    right: -40px;
+  }
+}
+@media (max-width: 500px) {
+  .view-card .close-view-card {
+    top: -10px;
+    right: -30px;
+  }
+}
+
+.minus {
+  cursor: pointer;
+}
+
+.plus {
+  cursor: pointer;
+}
+
+.card-busket {
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+  display: none;
+}
+.card-busket-wrapp {
+  padding: 50px 20px;
+  max-width: 320px;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  position: absolute;
+  right: -300px;
+  transition: 0.3s;
+  top: 0;
+  height: 100%;
+}
+.card-busket-active {
+  display: block;
+}
+.card-busket-active .card-busket-wrapp {
+  transition: 0.3s;
+  right: 0px;
+}
+.card-busket .card-busket-all-total {
+  position: absolute;
+  bottom: 0;
+  padding-bottom: 20px;
+  width: 100%;
+}
+.card-busket .card-busket-all-total p {
+  color: #777;
+  font-weight: 600;
+  font-size: 14px;
+  width: calc(100% - 40px);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card-busket .card-busket-all-total a {
+  display: block;
+  height: 50px;
+  width: calc(100% - 40px);
+  border-radius: 5px;
+  background-color: #191919;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  transition: 0.3s;
+}
+.card-busket .card-busket-all-total a:hover {
+  transition: 0.3s;
+  opacity: 0.85;
+}
+.card-busket-title {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.card-busket-title span {
+  font-size: 24px;
+  color: #777;
+}
+.card-busket-title button {
+  display: block;
+  width: 30px;
+  height: 30px;
+  font-size: 24px;
+  font-weight: 700;
+  color: #777;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.card-busket-item {
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+.card-busket-item-titles {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.card-busket-item-titles img {
+  width: 70px;
+}
+.card-busket-item-titles .card-busket-item-title {
+  font-size: 12px;
+  font-weight: 600;
+  margin-left: 10px;
+  margin-right: auto;
+  color: #777;
+}
+.card-busket-item-titles .card-busket-item-cancel {
+  width: 25px;
+  height: 25px;
+  font-size: 22px;
+  position: relative;
+  top: -10px;
+  color: #777;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.card-busket-item .card-busket-item-price {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card-busket-item .card-busket-item-price .card-busket-item-count {
+  color: #777;
+}
+.card-busket-item .card-busket-item-price-total {
+  font-weight: 700;
+  color: #191919;
+}
+
+.checkout-item {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+@media (max-width: 900px) {
+  .checkout-item {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 10px;
+  }
+}
+@media (max-width: 600px) {
+  .checkout-item {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 10px;
+  }
+}
+.checkout-item img {
+  width: 120px;
+  height: auto;
+}
+@media (max-width: 600px) {
+  .checkout-item img {
+    width: 80px;
+  }
+}
+.checkout-item-title {
+  font-size: 14px;
+  margin-right: auto;
+}
+.checkout-item-price {
+  margin-right: auto;
+  color: #191919;
+  font-weight: 600;
+}
+.checkout-item-count {
+  margin-right: auto;
+  color: #191919;
+  font-weight: 600;
+}
+.checkout-item-all-total {
+  color: #191919;
+  font-weight: 600;
+}
+
+.checkout-continue-or-delete {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 40px;
+}
+@media (max-width: 400px) {
+  .checkout-continue-or-delete {
+    flex-direction: column;
+    row-gap: 20px;
+  }
+}
+.checkout-continue-or-delete a {
+  text-transform: uppercase;
+  color: #777;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+}
+.checkout-continue-or-delete a svg {
+  fill: #777;
+}
+.checkout-continue-or-delete button {
+  text-transform: uppercase;
+  color: #777;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.checkout-continue-or-delete button svg {
+  fill: #777;
+}
+
+.modal-form-order {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1000;
+  background-color: rgba(0, 0, 0, 0.5);
+  align-items: center;
+  justify-content: center;
+  display: none;
+}
+.modal-form-order-show {
+  display: flex;
+}
+.modal-form-order-wrapp {
+  padding: 60px 20px;
+  background-color: #fff;
+  width: 30%;
+  position: relative;
+  border-radius: 5px;
+}
+.modal-form-order .modal-form-order-cancel {
+  position: absolute;
+  right: 20px;
+  top: 10px;
+  font-size: 40px;
+  cursor: pointer;
+}
+.modal-form-order form {
+  display: block;
+  margin-top: 20px;
+}
+.modal-form-order form input {
+  width: 100%;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #777;
+  border: 1px solid #777;
+  outline: none;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+.modal-form-order form button {
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  border: none;
+  outline: none;
+  background-color: #1b3c33;
+  color: #fff;
+  cursor: pointer;
 }
 
 /*# sourceMappingURL=style.css.map */

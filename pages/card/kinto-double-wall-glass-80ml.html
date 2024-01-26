@@ -31,6 +31,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="#191919">
                      <path fill="#191919" d="M5 22h14c1.103 0 2-.897 2-2V9a1 1 0 0 0-1-1h-3V7c0-2.757-2.243-5-5-5S7 4.243 7 7v1H4a1 1 0 0 0-1 1v11c0 1.103.897 2 2 2zM9 7c0-1.654 1.346-3 3-3s3 1.346 3 3v1H9V7zm-4 3h2v2h2v-2h6v2h2v-2h2l.002 10H5V10z"></path>
                     </svg>
+                    <span>0</span>
                 </button>
             </nav>
         </div>
@@ -50,6 +51,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24">
                      <path d="M5 22h14c1.103 0 2-.897 2-2V9a1 1 0 0 0-1-1h-3V7c0-2.757-2.243-5-5-5S7 4.243 7 7v1H4a1 1 0 0 0-1 1v11c0 1.103.897 2 2 2zM9 7c0-1.654 1.346-3 3-3s3 1.346 3 3v1H9V7zm-4 3h2v2h2v-2h6v2h2v-2h2l.002 10H5V10z"></path>
                     </svg>
+                    <span>0</span>
                 </button>
                 <div class="navbar-mobile">
                     <nav>
@@ -441,7 +443,22 @@
         </div>
     </div>
     <!-- modal image end -->
-    
+      <!-- card busket -->
+      <div class="card-busket">
+        <div class="card-busket-wrapp">
+            <div class="card-busket-title">
+                <span>Cart</span>
+                <button class="card-busket-close">&times;</button> 
+            </div>
+            <div class="card-busket-flex">
+            </div>
+            <div class="card-busket-all-total">
+                <p>Subtotal <span>UZS <span>0</span></span></p>
+                <a href="../checkout.html">Checkout</a>
+            </div>
+        </div>
+    </div>
+    <!-- card busket end -->
     <!-- footer --> 
  <footer class="footer">
     <div class="container">
@@ -576,6 +593,120 @@
     //         addToCardFixed.classList.remove('add-to-card-fixed-show');
     //     }
     // }
+
+    function toggleCardClass(){
+     // получаем карзину и карточку карзины 
+     const busket = document.querySelectorAll('.busket');
+    //cart of busket
+    const cart = document.querySelector('.card-busket');
+    const busketClose = document.querySelector('.card-busket-close');
+    for (let i = 0; i < busket.length; i++) {
+        busket[i].onclick = ()=>{
+            cart.classList.add('card-busket-active');
+        }
+    };
+    busketClose.onclick = ()=>{
+        cart.classList.remove('card-busket-active');
+    }
+};
+   toggleCardClass();
+   // делаем функцию которая проверяет есть ли заказ в локал сторедж или нет 
+   function checkOrder(){
+    const busketSpan = document.querySelector('.busket span');
+    if(getItem().length > 0){
+        let arr = getItem();
+        let countOrder = 0;
+        arr.forEach(item =>{
+            countOrder += item.count;
+        });
+        if(countOrder > 0){
+            busketSpan.textContent = countOrder;
+            busketSpan.classList.add('count-show');
+        }else{
+            busketSpan.classList.remove('count-show');
+        }
+    }
+   };
+
+    // добавляем заказ в локал стораге 
+    function setItem (arr){
+    return localStorage.setItem('order',JSON.stringify(arr));
+   };
+   // получаем заказ из локал стораге 
+   function getItem (){
+    let arr = JSON.parse(localStorage.getItem('order'))
+    return arr || [];
+   };
+
+
+  
+   checkOrder();
+   cardAddHtml();
+
+   // добавляем item заказов в 
+   function cardAddHtml() {
+    const cardBusketFlex = document.querySelector('.card-busket-flex');
+    const cardBusketAllTotal = document.querySelector('.card-busket-all-total p span span');
+    let arr = getItem();
+    cardBusketFlex.innerHTML = '';
+    arr.forEach((item,index)=>{
+        cardBusketFlex.innerHTML += template(item);
+    });
+    cardBusketAllTotal.textContent = allTotal();
+   };
+function template (item){
+    let total = 0;
+    total += item.price;
+    return `
+    <div class="card-busket-item">
+        <div class="card-busket-item-titles">
+            <img src="${item.img}" alt="description">
+            <div class="card-busket-item-title">${item.title}</div>
+            <button class="card-busket-item-cancel" onclick="deleteItem(this)">&times;</button>
+        </div>
+        <div class="card-busket-item-price">
+            <div class="card-busket-item-count">Количнество: <span>${item.count}</span></div>
+            <div class="card-busket-item-price-total">
+                UZS <span>${total}</span>
+            </div>
+        </div>
+    </div>
+    `;
+}
+
+function allTotal(){
+    const cardBusketItemPriceTotal = document.querySelectorAll('.card-busket-item-price-total span');
+    let total = 0;
+    cardBusketItemPriceTotal.forEach(item => {
+       total += Number(item.textContent);
+    });
+    return total;
+};
+
+// удаляем элемент при клике 
+// const htmlArr = document.querySelectorAll('.card-busket-item-cancel');
+// htmlArr.forEach(btnX =>{
+//     btnX.onclick = () => {
+//         deleteItem(btnX);
+//     }
+// })
+function deleteItem(btnX) {
+    const arr = getItem();
+    
+    const parentItem = btnX.parentNode.closest('.card-busket-item');
+    
+    const title = parentItem.querySelector('.card-busket-item-title').textContent.replaceAll(' ', '');
+
+    arr.forEach((item, index) => {
+        if (title == item.title.replaceAll(' ', '')) {
+            arr.splice(index, 1);
+            setItem(arr);
+            cardAddHtml();
+            checkOrder();
+        }
+    });
+}
+
      </script>
     
 </body>

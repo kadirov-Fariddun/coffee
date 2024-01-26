@@ -140,3 +140,86 @@ function changeTitleCoffeePage(buttons,titleBlock){
        
     }
 }
+
+
+function viewCard(){
+const eyes = document.querySelectorAll('.card-eye');
+// ловим события клик по определенной карточке
+const text = {
+    'THEYEMENTRILOGY':
+    `PLEASE NOTE, DUE TO SEASONAL SHIPPING DELAYS 
+    ﻿ALL ORDERS MADE AFTER DECEMBER 
+    13th WE CAN NOT GUARANTEE DELIVERY IN TIME FOR THE HOLIDAYS 
+    The Trilogy Box includes three 4oz bags...`,
+
+    'AL-DURRAR-SINGLEFARMERMICROLOTBOX':
+    ` PLEASE NOTE, DUE TO SEASONAL SHIPPING DELAYS ﻿ALL ORDERS MADE AFTER DECEMBER 13th WE CAN NOT GUARANTEE 
+    DELIVERY IN TIME FOR THE HOLIDAYS Al Durrar’s bright, fruit-forward flavors shine like...`,
+
+    'MOKHAMONTHLYSUBSCRIPTION':
+    `To say that the Yemeni people are hospitable is an understatement. 
+    Upon entering a village in the Al-Jabal region, it is customary to be greeted with the playing of drums...`,
+
+    'KINTOESPRESSOGLASS80ML':
+    `Whether you’re raising coffee from seed to harvest, roasting a new varietal, 
+    or preparing your morning cup —
+     small touches make a big difference. When you’re savoring the finer points...`,
+
+    'KINTOCOFFEEGLASS250ML':
+    `Incredible coffee deserves an incredible glass. The Kinto Coffee Glass maintains your 
+    coffee’s heat and offers the ideal tactile experience to accompany your coffee.`,
+
+    'ALDURRAR&KINTOGLASSES(SETOF2GLASSES)'
+    :
+    `The Coffee:Al Durrar’s bright, fruit-forward flavors shine like gems.
+     Running alongside those bands of tropical sweetness are rich, 
+    earthy flavors of dark chocolate. This coffee represents a trophy of Yemeni...`,
+
+    'PORTOFMOKHADIGITALGIFTCARD':
+    `This gift card can unlock everything Port of Mokha has to offer, from stunning small-batch coffee, 
+    to delicious chocolate covered espresso beans, to the gear you need to brew a...`
+
+
+}
+for(let i = 0; i < eyes.length; i++){
+    const eye = eyes[i];
+    const infoCard = {
+        title:'',
+        price:'',
+        text:'',
+        href:'',
+        src:'',
+    }
+    
+    eye.onclick = () => {
+        console.log(eye.parentNode);
+        const title = eye.parentNode.querySelector('.card-title').textContent.trim(); 
+        const price = eye.parentNode.querySelector('.card-price').textContent.trim(); 
+        const src = eye.parentNode.querySelector('.card-image a img').src; 
+        const href = eye.parentNode.querySelector('.card-image a').href; 
+        infoCard.title = title;
+        infoCard.price = price;
+        infoCard.src = src;
+        infoCard.href = href;
+        infoCard.text = text[infoCard.title.replaceAll(' ','').toUpperCase()];
+       document.querySelector('.view-card').classList.add('view-card-show');
+       document.querySelector('.view-card-image img').src = infoCard.src;
+       document.querySelector('.view-card-title').textContent = infoCard.title;
+       document.querySelector('.view-card-price').textContent = infoCard.price;
+       document.querySelector('.view-card-text').textContent = infoCard.text;
+       document.querySelector('.view-card-btn').href = infoCard.href;
+       setTimeout(()=>{
+        document.querySelector('.view-card .loader').style.display = 'none';
+        document.querySelector('.view-card .view-card-wrapp').style.display = 'flex';
+       },1000)
+    }
+};
+const closeBtn = document.querySelector('.close-view-card');
+closeBtn.onclick = () => {
+    document.querySelector('.view-card').classList.remove('view-card-show');
+    document.querySelector('.view-card .loader').style.display = 'block';
+    document.querySelector('.view-card .view-card-wrapp').style.display = 'none';
+}
+};
+viewCard();
+

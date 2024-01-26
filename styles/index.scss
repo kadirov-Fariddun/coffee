@@ -165,21 +165,62 @@ a{
                 opacity: .5;
             }
         }
-        .busket{
-            margin-left: 40px;
-            cursor: pointer;
-            background-color: transparent;
-            outline: none;
-            border: none;
-            svg{
-                fill: #fff;
-            }
+        
+    }
+}
+// busket styles
+.busket{
+    margin-left: 40px;
+    cursor: pointer;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    position: relative;
+    &::before{
+        content: "Cart";
+        position: absolute;
+        bottom: -30px;
+        left: 50%;
+        transform: translateX(-50%);
+        padding: 5px;
+        background-color: #fff;
+        font-weight: 700;
+        display: none;
+    }
+    &:hover::before{
+        display: block;
+    }
+    svg{
+        fill: #fff;
+    }
+    span{
+        position: absolute;
+        right: -10px;
+        top: -15px;
+        width: 18px;
+        height: 18px;
+        border-radius: 50%;
+        background-color: #000;
+        color: #fff;
+        align-items: center;
+        justify-content: center;
+        font-style: 12px;
+        display: none;
+        opacity: 0;
+        @media(max-width:$bp1024){
+            right: 0px;
+            top: 0px;
+        }
+        &.count-show{
+            display: flex;
+            opacity: 1;
         }
     }
 }
 //menu-mobile
 .menu-mobile{
     width: 100%;
+    
     &.header-fixed{
         transition: .5s;
         position: fixed;
@@ -281,6 +322,32 @@ a{
         border: none;
         width: 40px;
         background: transparent;
+        svg{
+            fill: #191919;
+        }
+        // span{
+        //     position: absolute;
+        //     right: -10px;
+        //     top: -15px;
+        //     width: 18px;
+        //     height: 18px;
+        //     border-radius: 50%;
+        //     background-color: #000;
+        //     color: #fff;
+        //     align-items: center;
+        //     justify-content: center;
+        //     font-style: 12px;
+        //     display: none;
+        //     opacity: 0;
+        //     @media(max-width:$bp1024){
+        //         right: 0px;
+        //         top: 0px;
+        //     }
+        //     &.count-show{
+        //         display: flex;
+        //         opacity: 1;
+        //     }
+        // }
     }
 }
 .navbar a{
@@ -2776,6 +2843,444 @@ a{
                     }
                 }
             }
+        }
+    }
+}
+
+.view-card{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,.5);
+    z-index: 1000;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    &-show{
+        display: flex;
+    }
+    .view-card-wrapp{
+        display: none;
+        width: 80%;
+        padding: 40px;
+        background-color: #fff;
+        border-radius: 5px;
+        position: relative;
+        @media(max-width:$bp500){
+            padding: 15px;
+        }
+    }
+    img{
+        width: 50px;
+        height: 50px;
+    }
+    //flex
+    &-flex{
+        display: grid;
+        grid-template-columns: 50% 50%;
+        align-items: flex-start;
+        @media(max-width:$bp768){
+            grid-template-columns: 1fr;
+            row-gap: 20px;
+        }
+    }
+
+    //image
+    &-image{
+        padding: 20px;
+        @media(max-width:$bp768){
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        img{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            @media(max-width:$bp768){
+                max-width: 300px;
+            }
+        }
+    }
+    //title
+    &-title{
+        font-size: 16px;
+        font-weight: 500;
+        text-align: left;
+        margin-bottom: 10px;
+    }
+    //price
+    &-price{
+        letter-spacing: .05em;
+        line-height: 40px;
+        font-size: 30px;
+        margin-bottom: 30px;
+
+    }
+    //text
+    &-text{
+        text-align: left;
+        font-weight: 700;
+        color: #777;
+        line-height: 30px;
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+     //btn-card-count
+     .btn-card-count{
+        display: flex;
+        align-items: center;
+        margin-bottom: 60px;
+        //minus/plus
+        .minus,.plus{
+            width: 50px;
+            height: 50px;
+            cursor: pointer;
+            font-size: 20px;
+            border: none;
+            outline: none;
+           
+        }
+        // count
+        .count{
+            margin: 0 10px;
+        }
+        //btn-add-busket
+        .btn-add-busket{
+            width: 100%;
+            margin-left: 20px;
+            height: 50px;
+            border-radius: 5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #ff967a;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            svg{
+                margin-right: 10px;
+            }
+        }
+    }
+
+    //view-card-btn
+    &-btn{
+        font-weight: 600;
+        color: #777;
+    }
+    //close-view-card
+    .close-view-card{
+        position: absolute;
+        top: -40px;
+        right: -20px;
+        font-weight: 800;
+        font-size: 30px;
+        color: #fff;
+        cursor: pointer;
+        @media(max-width:$bp768){
+            top: -20px;
+            right: -40px;
+        }
+        @media(max-width:$bp500){
+            top: -10px;
+            right: -30px;
+        }
+    }
+}
+.minus{
+    cursor: pointer;
+}
+.plus{
+    cursor: pointer;
+}
+
+.card-busket{
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,.5);
+    z-index: 1000;
+    display: none;
+    //flex
+    //wrapp
+    &-wrapp{
+        padding: 50px 20px;
+        max-width: 320px;
+        width: 100%;
+        height: 100%;
+        background-color: #fff;
+        position: absolute;
+        right: -300px;
+        transition: .3s;
+        top: 0;
+        height: 100%;
+    }
+    //active
+    &-active{
+        display: block;
+        .card-busket-wrapp{
+            transition: .3s;
+            right: 0px;
+        } 
+    }
+    //card-busket-all-total
+    // .card-busket-flex{
+    //     margin-bottom: auto;
+    // }
+    //card-busket-all-total
+    .card-busket-all-total{
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 20px;
+        width: 100%;
+        p{
+            color: #777;
+            font-weight: 600;
+            font-size: 14px;
+            width: calc(100% - 40px);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        a{
+            display: block;
+            height: 50px;
+            width:calc(100% - 40px);
+            border-radius: 5px;
+            background-color: #191919;
+            color: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 20px;
+            transition: .3s;
+            &:hover{
+                transition: .3s;
+                opacity: .85;
+            }
+        }
+    }
+
+    //card-busket-title
+    &-title{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 30px;
+        span{
+            font-size: 24px;
+            color: #777;
+        }
+        button{
+            display: block;
+            width: 30px;
+            height: 30px;
+            font-size: 24px;
+            font-weight: 700;
+            color: #777;
+            border: none;
+            outline: none;
+            cursor: pointer;
+        }
+    }
+}
+
+//card-busket-item
+.card-busket-item{
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgb(0,0,0,.1);
+    margin-bottom: 20px;
+    //card-busket-item-titles
+    &-titles{
+        display: flex;
+        align-items: center;
+        width: 100%;
+        margin-bottom: 20px;
+        img{
+            width: 70px;
+        }
+        //.card-busket-item-title
+        .card-busket-item-title{
+            font-size: 12px;
+            font-weight: 600;
+            margin-left: 10px;
+            margin-right: auto;
+            color: #777;
+        }
+        .card-busket-item-cancel{
+            width: 25px;
+            height: 25px;
+            font-size: 22px;
+            position: relative;
+            top: -10px;
+            color: #777;
+            border: none;
+            outline: none;
+            cursor: pointer;
+           
+        }
+    }
+    //card-busket-item-price
+    .card-busket-item-price{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        //card-busket-item-count
+        .card-busket-item-count{
+            color: #777;
+        }
+        &-total{
+            font-weight: 700;
+            color: #191919;
+        }
+    }
+}
+
+//checkout-item
+.checkout-item{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+    @media(max-width:$bp900){
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 10px;
+    }
+    @media(max-width:$bp600){
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        column-gap: 10px;
+    }
+    img{
+        width: 120px;
+        height: auto;
+        @media(max-width:$bp600){
+            width: 80px;
+        }
+    }
+    //title
+    &-title{
+        font-size: 14px;
+        margin-right: auto;
+    }
+    //price
+    &-price{
+        margin-right: auto;
+        color: #191919;
+        font-weight: 600;
+    }
+    //count
+    &-count{
+        margin-right: auto;
+        color: #191919;
+        font-weight: 600;
+    }
+    // all total
+    &-all-total{
+        color: #191919;
+        font-weight: 600;
+    }
+}
+
+//checkout-continue-or-delete
+.checkout-continue-or-delete{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 40px;
+    @media(max-width:$bp400){
+        flex-direction: column;
+        row-gap: 20px;
+    }
+    a{
+        text-transform: uppercase;
+        color: #777;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        column-gap: 10px;
+        svg{
+            fill: #777;
+        }
+    }
+    button{
+        text-transform: uppercase;
+        color: #777;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        column-gap: 10px;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        svg{
+            fill: #777;
+        }
+    }
+}
+//modal-form-order
+.modal-form-order{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1000;
+    background-color: rgb(0,0,0,.5);
+    align-items: center;
+    justify-content: center;
+    display: none;
+    &-show{
+        display: flex;
+    }
+    //wrapp
+    &-wrapp{
+        padding: 60px 20px;
+        background-color: #fff;
+        width: 30%;
+        position: relative;
+        border-radius: 5px;
+    }
+    //modal-form-order-cancel
+    .modal-form-order-cancel{
+        position: absolute;
+        right: 20px;
+        top: 10px;
+        font-size: 40px;
+        cursor: pointer;
+    }
+    //form
+    form{
+        display: block;
+        margin-top: 20px;
+        input{
+            width: 100%;
+            padding: 10px 20px;
+            font-size: 16px;
+            color: #777;
+            border:1px solid #777;
+            outline: none;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+        button{
+            width: 100%;
+            height: 40px;
+            border-radius: 5px;
+            text-transform: uppercase;
+            border: none;
+            outline: none;
+            background-color: #1b3c33;
+            color: #fff;
+            cursor: pointer;
         }
     }
 }

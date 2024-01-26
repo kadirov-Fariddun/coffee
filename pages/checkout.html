@@ -17,18 +17,18 @@
         <!-- для отображения десктопной меню -->
         <div class="menu-desctop">
             <a href="../index.html" class="logo">
-                <img src="../images/logo-white.webp" alt="description">
+                <img src="../images/logo.webp" alt="description">
             </a>
             <nav class="navbar">
-                <a href="./shop.html">Coffee</a>
-                <a href="./brewguides.html">Brew Guides</a>
-                <a href="./products.html">All Products</a>
-                <button class="busket">
+                <a href="./shop.html" style="color: #191919;">Coffee</a>
+                <a href="./brewguides.html" style="color: #191919;">Brew Guides</a>
+                <a href="./products.html" style="color: #191919;">All Products</a>
+                <!-- <button class="busket">
                     <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24">
                      <path d="M5 22h14c1.103 0 2-.897 2-2V9a1 1 0 0 0-1-1h-3V7c0-2.757-2.243-5-5-5S7 4.243 7 7v1H4a1 1 0 0 0-1 1v11c0 1.103.897 2 2 2zM9 7c0-1.654 1.346-3 3-3s3 1.346 3 3v1H9V7zm-4 3h2v2h2v-2h6v2h2v-2h2l.002 10H5V10z"></path>
                     </svg>
                     <span>0</span>
-                </button>
+                </button> -->
             </nav>
         </div>
             <!-- для отображения десктопной меню конец -->
@@ -43,12 +43,11 @@
                 <div class="logo">
                     <a href="../index.html"><img src="../images/logo.webp" alt="description"></a>
                 </div>
-                <button class="busket busket-mobile">
+                <!-- <button class="busket busket-mobile">
                     <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24">
                      <path d="M5 22h14c1.103 0 2-.897 2-2V9a1 1 0 0 0-1-1h-3V7c0-2.757-2.243-5-5-5S7 4.243 7 7v1H4a1 1 0 0 0-1 1v11c0 1.103.897 2 2 2zM9 7c0-1.654 1.346-3 3-3s3 1.346 3 3v1H9V7zm-4 3h2v2h2v-2h6v2h2v-2h2l.002 10H5V10z"></path>
                     </svg>
-                    <span>0</span>
-                </button>
+                </button> -->
                 <div class="navbar-mobile">
                     <nav>
                         <div class="close-menu-btn"><span>&times;</span> Close</div>
@@ -60,44 +59,30 @@
             </div>
             <!-- для отображения мобильного меню конец -->
        </header>
-       <div class="head-page-titles shipping">
-          <div class="head-page-title">
-            SHIPPING POLICY
-          </div>
-       </div>
     </div>
     <!-- header wrapper end -->
     <div class="container">
-        <div class="text" style="margin-bottom: 20px; padding-top: 40px; text-align: left;">
-            We usually process and ship all orders within 2-5 business days (excluding holidays). 
-            During the holiday season, shipments may be delayed by 2-3 business days.
-        </div>
-        <div class="text" style="margin-bottom: 20px; text-align: left;">
-            You can request another carrier before purchase. All orders sent out have tracking numbers. 
-            Insurance is recommended. For international orders, any duties and customs taxes upon 
-            arrival are the sole responsibility of the buyer.  
-            Please keep track of your order to ensure you can check on it once it arrives.
-        </div>
-        <div class="text" style="margin-bottom: 40px; text-align: left;">
-            We believe in our coffee, and your happiness is our happiness.
+        <div class="checkout-wrapp" style="height: 80vh;width: 100%; 
+        display: flex; align-items: center;justify-content: center;flex-direction: column; margin-top: -315px;">
+            <div class="title" style="font-size: 40px;">SHOPPING CART IS EMPTY</div>
+            <div class="text" style="color: #777;font-weight: 700;">You have no items in your shopping cart.</div>
+            <a href="../index.html" class="btn" style="max-width: 250px;margin-top: 20px;">CONTINUE SHOPPING</a>
         </div>
     </div>
-       <!-- card busket -->
-       <div class="card-busket">
-        <div class="card-busket-wrapp">
-            <div class="card-busket-title">
-                <span>Cart</span>
-                <button class="card-busket-close">&times;</button> 
-            </div>
-            <div class="card-busket-flex">
-            </div>
-            <div class="card-busket-all-total">
-                <p>Subtotal <span>UZS <span>0</span></span></p>
-                <a href="./checkout.html">Checkout</a>
-            </div>
+
+    <!-- modal form order -->
+    <div class="modal-form-order">
+        <div class="modal-form-order-wrapp">
+            <div class="modal-form-order-cancel" onclick="removeClassModalForm()">&times;</div>
+            <div class="title">Введите свои данные что бы получить заказ</div>
+            <form action="../sendForm.php" class="send-order-form">
+                <input type="text" placeholder="Ваше Имя" maxlength="60" name="name" required>
+                <input type="text" placeholder="Ваш Телефон номер" maxlength="60" name="phone" required>
+                <button type="submit">Отправить</button>
+            </form>
         </div>
     </div>
-    <!-- card busket end -->
+    <!-- modal form order -->
      <!-- footer -->
      <footer class="footer">
         <div class="container">
@@ -114,8 +99,8 @@
                     <li>
                         <a href="./roasters.html">Wholesale</a>
                         <a href="./press.html">Press</a>
-                        <a href="./contact.html">Contact</a>
-                        <a href="#">Shipping Policy</a>
+                        <a href="#">Contact</a>
+                        <a href="./shipping-policy.html">Shipping Policy</a>
                         <a href="./refund-policy.html">Refund Policy</a>
                         <a href="./privacy-policy.html">Privacy Policy</a>
                         <a href="./terms-of-services.html">Terms of Service</a>
@@ -162,120 +147,124 @@
         </div>
      </footer>
         <!-- global javascript file -->
+        <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
         <script type="module" src="../scripts/index.js"></script>
         <script type="text/javascript">
-              function toggleCardClass(){
-     // получаем карзину и карточку карзины 
-     const busket = document.querySelectorAll('.busket');
-    //cart of busket
-    const cart = document.querySelector('.card-busket');
-    const busketClose = document.querySelector('.card-busket-close');
-    for (let i = 0; i < busket.length; i++) {
-        busket[i].onclick = ()=>{
-            cart.classList.add('card-busket-active');
-        }
-    };
-    busketClose.onclick = ()=>{
-        cart.classList.remove('card-busket-active');
-    }
-};
-   toggleCardClass();
-   // делаем функцию которая проверяет есть ли заказ в локал сторедж или нет 
-   function checkOrder(){
-    const busketSpan = document.querySelector('.busket span');
-    if(getItem().length > 0){
-        let arr = getItem();
-        let countOrder = 0;
-        arr.forEach(item =>{
-            countOrder += item.count;
-        });
-        if(countOrder > 0){
-            busketSpan.textContent = countOrder;
-            busketSpan.classList.add('count-show');
-        }else{
-            busketSpan.classList.remove('count-show');
-        }
-    }
-   };
-
-    // добавляем заказ в локал стораге 
-    function setItem (arr){
-    return localStorage.setItem('order',JSON.stringify(arr));
-   };
-   // получаем заказ из локал стораге 
-   function getItem (){
-    let arr = JSON.parse(localStorage.getItem('order'))
-    return arr || [];
-   };
-
-
-  
-   checkOrder();
-   cardAddHtml();
-
-   // добавляем item заказов в 
-   function cardAddHtml() {
-    const cardBusketFlex = document.querySelector('.card-busket-flex');
-    const cardBusketAllTotal = document.querySelector('.card-busket-all-total p span span');
-    let arr = getItem();
-    cardBusketFlex.innerHTML = '';
-    arr.forEach((item,index)=>{
-        cardBusketFlex.innerHTML += template(item);
-    });
-    cardBusketAllTotal.textContent = allTotal();
-   };
-function template (item){
-    let total = 0;
-    total += item.price;
-    return `
-    <div class="card-busket-item">
-        <div class="card-busket-item-titles">
-            <img src="${item.img}" alt="description">
-            <div class="card-busket-item-title">${item.title}</div>
-            <button class="card-busket-item-cancel" onclick="deleteItem(this)">&times;</button>
-        </div>
-        <div class="card-busket-item-price">
-            <div class="card-busket-item-count">Количнество: <span>${item.count}</span></div>
-            <div class="card-busket-item-price-total">
-                UZS <span>${total}</span>
+            const checkoutWrapp = document.querySelector('.checkout-wrapp');
+            
+            const arr = JSON.parse(localStorage.getItem('order'));
+            if(arr.length > 0){
+                checkoutWrapp.style.alignItems = 'flex-start';
+                checkoutWrapp.innerHTML = '';
+               arr.forEach(item => {
+                
+                checkoutWrapp.innerHTML += template(item);
+               }) ;
+               checkoutWrapp.innerHTML += `
+               <div class="checkout-continue-or-delete">
+                    <a href="../index.html">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                            <path d="M9 10h6c1.654 0 3 1.346 3 3s-1.346 3-3 3h-3v2h3c2.757 0 5-2.243 5-5s-2.243-5-5-5H9V5L4 9l5 4v-3z"></path>
+                        </svg>
+                        <span>Continue Shopping</span>
+                    </a>
+                    <button onclick="clearLocalStorage()">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                            <path d="M9.172 16.242 12 13.414l2.828 2.828 1.414-1.414L13.414 12l2.828-2.828-1.414-1.414L12 10.586 9.172 7.758 7.758 9.172 10.586 12l-2.828 2.828z"></path><path d="M12 22c5.514 0 10-4.486 10-10S17.514 2 12 2 2 6.486 2 12s4.486 10 10 10zm0-18c4.411 0 8 3.589 8 8s-3.589 8-8 8-8-3.589-8-8 3.589-8 8-8z"></path>
+                        </svg>
+                        <span>Clear all cart</span>
+                    </button>
+                </div>
+                <button class="btn" style="margin-top:60px;cursor:pointer;
+                text-transform:uppercase;" onclick="addClassModalForm()">Сделать заказ</button>
+               `;
+            //    <div class="checkout-all-total">
+            //         GRAND TOTAL <span></span>
+            //     </div>
+            }
+            
+        function template (item){
+            let total = 0;
+            for(let i = 0;i<item.count;i++){
+                total += item.price;
+            };
+            return `
+            <div class="checkout-item">
+                <img src="${item.img}" alt="description" />
+                <span class="checkout-item-title">${item.title}</span>
+                <span class="checkout-item-price">цена: ${item.price} som</span>
+                <span class="checkout-item-count">Количество: ${item.count}</span>
+                <span class="checkout-item-all-total">Итого: ${total} som</span>
             </div>
-        </div>
-    </div>
-    `;
+            `;
+        };
+// function allTotal(){
+//     const cardBusketItemPriceTotal = document.querySelectorAll('.checkout-item-all-total');
+//     const checkoutAllTotal = document.querySelector('.checkout-all-total span');
+//     let total = 0;
+//     cardBusketItemPriceTotal.forEach(item => {
+//        total += Number(item.textContent);
+//     });
+//     return checkoutAllTotal.innerHTML = total;
+// };
+// allTotal()
+function clearLocalStorage(){
+    // const btn = document.querySelector('.checkout-continue-or-delete button');
+    // btn.onclick = ()=> {
+        localStorage.clear();
+        location.reload();
+    // }
+    
+};
+const modalForm = document.querySelector('.modal-form-order');
+function addClassModalForm(){
+    modalForm.classList.add('modal-form-order-show');
 }
-
-function allTotal(){
-    const cardBusketItemPriceTotal = document.querySelectorAll('.card-busket-item-price-total span');
-    let total = 0;
-    cardBusketItemPriceTotal.forEach(item => {
-       total += Number(item.textContent);
-    });
-    return total;
+function removeClassModalForm(){
+    modalForm.classList.remove('modal-form-order-show');
+};
+window.onclick = (e)=>{
+    if(e.target.className == 'modal-form-order modal-form-order-show'){
+        removeClassModalForm();
+    }else return;
 };
 
-// удаляем элемент при клике 
-// const htmlArr = document.querySelectorAll('.card-busket-item-cancel');
-// htmlArr.forEach(btnX =>{
-//     btnX.onclick = () => {
-//         deleteItem(btnX);
-//     }
-// })
-function deleteItem(btnX) {
-    const arr = getItem();
-    
-    const parentItem = btnX.parentNode.closest('.card-busket-item');
-    
-    const title = parentItem.querySelector('.card-busket-item-title').textContent.replaceAll(' ', '');
+ const sendOrderForm = document.querySelector('.send-order-form');
+ const token = '6557933953:AAFILW1gZv9pws_Y-6XWimr5f5u673MaVrY';
+const chat_id = '@coffee_db';//1338153173
+const URL = `https://api.telegram.org/bot${token}/sendMessage`;
+// const token = '5951322071:AAGPbDQTeHpohM7_-LfOhQWMCRQru08VAGA/';
+// const chatId = 'chat_id=1338153173&text='
+// let URL = 'https://api.telegram.org/' + token + 'sendMessage?' + chatId;
+ sendOrderForm.onsubmit = async (e) => {
+     e.preventDefault();
+     let name = e.target.querySelector('[name="name"]');
+     let phone = e.target.querySelector('[name="phone"]');
+     const arr = JSON.parse(localStorage.getItem('order')) || [];
+     let message;
+        message=`<b>Заказ с сайта catwood!</b>\n`;
+        message+=`<b>Имя:</b> ${name.value}\n`;
+        message+=`<b>Телефон номер:</b> <i>${phone.value}</i>\n`;
+        arr.forEach((item,index)=>{
+            message+=`Товар №${index+1}\n`;
+            message+=`<b>названия товара:</b> <i>${item.title}</i>\n`;
+            message+=`<b>Цена товара:</b> <i>${item.price} som</i>\n`;
+            message+=`<b>Количество товара:</b> <i>${item.count}</i>\n`;
+        })
+        axios.post(URL,{
+            chat_id:chat_id,
+            parse_mode:'html',
+            text:message,
+        })
+        e.target.parentNode.innerHTML = `
+        <div class='succes-send-message'>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style="fill: rgba(0, 0, 0, 1);transform: ;msFilter:;"><path d="M12 2C6.486 2 2 6.486 2 12s4.486 10 10 10 10-4.486 10-10S17.514 2 12 2zm-1.999 14.413-3.713-3.705L7.7 11.292l2.299 2.295 5.294-5.294 1.414 1.414-6.706 6.706z"></path></svg>
+            <span>Заявка успешно отправлено</span>
+        </div>
+        `
+  }
 
-    arr.forEach((item, index) => {
-        if (title == item.title.replaceAll(' ', '')) {
-            arr.splice(index, 1);
-            setItem(arr);
-            cardAddHtml();
-            checkOrder();
-        }
-    });
-}
+
 
         </script>
     </body>
